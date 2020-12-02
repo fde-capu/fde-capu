@@ -10,15 +10,6 @@ Computer Science researcher currently enrolled at [42 São Paulo](www.42sp.org.b
 
 Software development; Artificial Intelligence.
 
-#### Current position at 42 São Paulo:
-
-- Rigor: 3.44
-- Unix: 1.82
-- Algorithms & AI: 2.83
-- Graphics: 2.03
-- Imperative Programming: 2.74
-- Network and System Administration: 2.36
-
 ---
 
 ### Musical curriculum:
