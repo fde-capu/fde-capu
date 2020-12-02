@@ -45,4 +45,4 @@ Various advertisements.
 ### Graduation
 
 - 2006 Bachelor of Music Composition, Faculdade Santa Marcelina, São Paulo.
-- Monograph: [J Cage - Cybernetics between Chaos and Cosmos](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf), about John Cage).
+- Monograph: [J Cage - Cybernetics between Chaos and Cosmos](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf), about John Cage.
