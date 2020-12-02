@@ -1,16 +1,14 @@
 Computer Science researcher currently enrolled at [42 São Paulo](www.42sp.org.br)
 
- - [GitHub](www.github.com/fde-capu)
- - [Twitch (random music and live coding)](www.twitch.com/fde-capu)
- - [Site](www.flaviocarrara.com)
+ - [GitHub](https://www.github.com/fde-capu)
+ - [Twitch (random music and live coding)](https://www.twitch.com/fde-capu)
+ - [Site](http://www.flaviocarrara.com)
 
 ---
 
 #### Professional interest:
 
-Software development.
-
-Artificial Intelligence.
+Software development; Artificial Intelligence.
 
 #### Current position at 42 São Paulo:
 
