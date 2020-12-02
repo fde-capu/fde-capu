@@ -1,5 +1,4 @@
-## Flávio Carrara De Capua
-### fde-capu
+##### fde-capu
 
 ---
 
@@ -44,10 +43,14 @@ Submarine. Short film, Rafael Aidar.
 
 Various advertisements.
 
+---
+
 ### Professional curriculum:
 
 - 2016 ~ 2014 Director of fine arts studio. Iran from Espírito Santo.
 - 2009 ~ 2007 Consultant, coordination, editorial and musical review, Editora Irmãos Vitale.
+
+---
 
 ### Graduation
 
