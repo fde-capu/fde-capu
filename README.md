@@ -1,16 +1,10 @@
-##### fde-capu
+Computer Science researcher currently enrolled at [42 São Paulo](www.42sp.org.br)
 
----
+ -- [GitHub](www.github.com/fde-capu)
 
-Computer Science researcher
+ -- [Twitch (random music and live coding)](www.twitch.com/fde-capu)
 
-Currently enrolled at [42 São Paulo](www.42sp.org.br)
-
-[GitHub](www.github.com/fde-capu)
-
-[Twitch (random music and live coding)](www.twitch.com/fde-capu)
-
-[Site](www.flaviocarrara.com)
+ -- [Site](www.flaviocarrara.com)
 
 ---
 
