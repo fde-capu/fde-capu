@@ -23,7 +23,7 @@ Software development; Artificial Intelligence.
 
 ### Musical curriculum:
 
-(Mars.War)[https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3] Music Composition Contemplation on  Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri.
+[Mars.War](https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3) Music Composition Contemplation on  Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri.
 
 Insustentáveis. Television series in 13 episodes, Cérberos Filmes and Vermelho Filmes.
 
@@ -45,4 +45,4 @@ Various advertisements.
 ### Graduation
 
 - 2006 Bachelor of Music Composition, Faculdade Santa Marcelina, São Paulo.
-- Monograph: (J Cage - Cybernetics between Chaos and Cosmos, about John Cage)[https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf].
+- Monograph: [J Cage - Cybernetics between Chaos and Cosmos](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf), about John Cage).
