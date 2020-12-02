@@ -4,15 +4,21 @@
 ---
 
 Computer Science researcher
+
 Currently enrolled at [42 São Paulo](www.42sp.org.br)
+
 [GitHub](www.github.com/fde-capu)
+
 [Twitch (random music and live coding)](www.twitch.com/fde-capu)
+
 [Site](www.flaviocarrara.com)
 
 ---
 
 #### Professional interest:
+
 Software development.
+
 Artificial Intelligence.
 
 #### Current position at 42 São Paulo:
@@ -29,9 +35,13 @@ Artificial Intelligence.
 ### Musical curriculum:
 
 Contemplation on Music Composition Competition Gilberto Mendes, with symphonic work Mars.War, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri.
+
 Insustentáveis. Television series in 13 episodes, Cérberos Filmes and Vermelho Filmes.
+
 Sonhos de Peixe. Feature film, Kirill Mikhanovsky.
+
 Submarine. Short film, Rafael Aidar.
+
 Various advertisements.
 
 ### Professional curriculum:
