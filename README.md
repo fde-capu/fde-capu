@@ -1,4 +1,6 @@
-Computer Science researcher currently enrolled at [42 São Paulo](www.42sp.org.br)
+Computer Science researcher currently enrolled at [42 São Paulo](www.42sp.org.br).
+
+---
 
  - [GitHub](https://www.github.com/fde-capu)
  - [Twitch (random music and live coding)](https://www.twitch.com/fde-capu)
@@ -23,15 +25,11 @@ Software development; Artificial Intelligence.
 
 ### Musical curriculum:
 
-[Mars.War](https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3) Music Composition Contemplation on  Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri.
-
-Insustentáveis. Television series in 13 episodes, Cérberos Filmes and Vermelho Filmes.
-
-Sonhos de Peixe. Feature film, Kirill Mikhanovsky.
-
-Submarine. Short film, Rafael Aidar.
-
-Various advertisements.
+- [Mars.War](https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3) Music Composition Contemplation on  Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri.
+- Insustentáveis. Television series in 13 episodes, Cérberos Filmes and Vermelho Filmes.
+- Sonhos de Peixe. Feature film, Kirill Mikhanovsky.
+- Submarine. Short film, Rafael Aidar.
+- Various advertisements.
 
 ---
 
