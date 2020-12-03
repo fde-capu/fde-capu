@@ -35,6 +35,7 @@ Software development; Artificial Intelligence.
 ---
 
 <sub><sup>
+general interests:
 algorithmic art
 apache
 arduino
