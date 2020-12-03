@@ -35,18 +35,19 @@ Software development; Artificial Intelligence.
 ---
 
 <sub><sup>
-random general interests:
 algorithmic art
-Apache
+apache
+arduino
 astro photography
 astronomy
-Auto Hot Key
-AutoCad
+autocad
+autohotkey
 automation
 beer
 Blender
 book editing
-C language
+c language
+c sound
 chess
 chords
 comedy
@@ -55,10 +56,10 @@ computer aid design
 computer graphics
 computer parts
 cooking
-CSS
+css
 deep learning
 desktop customization
-Docker
+docker
 ffmpeg
 fine arts
 fractals
@@ -69,47 +70,46 @@ generative games
 go
 guitars
 hacking
-HTML
-I Ching
+html
+i ching
 illustration/drawing
 image editing
 improvising
 interactive art
 interactive scuptures
 jam sessions
-Javascript
-John Cage
+javascript
+john cage
 krita
-Kubernetes
-Linux
+kubernetes
+linux
 live music
 live streams
 love
 machine learning
-Max MSP
 mountains
 music composition
 music scores
 music teaching
-Nginx
-Perl
+nginx
+perl
 philosophy
-Phish
+phish
 programming
-Pure Data
+puredata
 puzzles
-Python
-Reason
+python
+reason
 science fiction
 science literature
-Shell scripting
-Sibelius
+shell scripting
+sibelius
 studying
 symphonic music
 tech equipments
 transcriptions
 travelling
-TTY
+tty
 video editing
 writing
 </sup></sub>
