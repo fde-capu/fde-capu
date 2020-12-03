@@ -31,3 +31,85 @@ Software development; Artificial Intelligence.
 
 - 2006 Bachelor of Music Composition, Faculdade Santa Marcelina, São Paulo.
 - Monograph: [J Cage - Cybernetics between Chaos and Cosmos](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf), about John Cage.
+
+---
+
+<sub><sup>
+random general interests:
+algorithmic art
+Apache
+astro photography
+astronomy
+Auto Hot Key
+AutoCad
+automation
+beer
+Blender
+book editing
+C language
+chess
+chords
+comedy
+composition
+computer aid design
+computer graphics
+computer parts
+cooking
+CSS
+deep learning
+desktop customization
+Docker
+ffmpeg
+fine arts
+fractals
+functional art
+games
+generative art
+generative games
+go
+guitars
+hacking
+HTML
+I Ching
+illustration/drawing
+image editing
+improvising
+interactive art
+interactive scuptures
+jam sessions
+Javascript
+John Cage
+krita
+Kubernetes
+Linux
+live music
+live streams
+love
+machine learning
+Max MSP
+mountains
+music composition
+music scores
+music teaching
+Nginx
+Perl
+philosophy
+Phish
+programming
+Pure Data
+puzzles
+Python
+Reason
+science fiction
+science literature
+Shell scripting
+Sibelius
+studying
+symphonic music
+tech equipments
+transcriptions
+travelling
+TTY
+video editing
+writing
+</sup></sub>
