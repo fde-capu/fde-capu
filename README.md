@@ -112,5 +112,6 @@ transcriptions
 travelling
 tty
 video editing
+vim
 writing
 </sup></sub>
