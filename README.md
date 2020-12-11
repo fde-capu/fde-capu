@@ -39,14 +39,18 @@ general interests:
 algorithmic art
 apache
 arduino
+assembly
 astro photography
 astronomy
 autocad
 autohotkey
 automation
+aws
+bacon
 beer
-Blender
+blender 3d
 book editing
+carl sagan
 c language
 c sound
 chess
@@ -56,28 +60,40 @@ composition
 computer aid design
 computer graphics
 computer parts
+computer science
+computers
 cooking
 css
+daisy
+data science
+data visualisation
 deep learning
 desktop customization
 docker
+drawing
+editing
 ffmpeg
 fine arts
 fractals
 functional art
 games
+game development
 generative art
 generative games
+git
 go
+grateful dead
 guitars
 hacking
+hardware
 html
 i ching
 illustration/drawing
 image editing
 improvising
 interactive art
-interactive scuptures
+interactive music
+interactive sculptures
 jam sessions
 javascript
 john cage
@@ -88,23 +104,32 @@ live music
 live streams
 love
 machine learning
+magento
+mathematics
 mountains
+movies
 music composition
+music
 music scores
-music teaching
+music education
+neural networks
 nginx
 perl
 philosophy
 phish
+physics
 programming
 puredata
 puzzles
 python
 reason
+robotics
 science fiction
 science literature
 shell scripting
 sibelius
+simulations
+streaming
 studying
 symphonic music
 tech equipments
@@ -113,5 +138,11 @@ travelling
 tty
 video editing
 vim
+virtual machines
+web
+web design
+windows
 writing
+zen
+and more
 </sup></sub>
