@@ -35,23 +35,41 @@ Software development; Artificial Intelligence.
 ---
 
 <sub><sup>
+angular
+apache
+assembly
+aws
+c language
+css
+django
+docker
+ffmpeg
+javascript
+keras  
+kubernetes
+nginx
+php
+node.js
+perl
+postgresql
+python
+shell scripting
+typescript
+wordpress
+|
 general interests:
 algorithmic art
-apache
 arduino
-assembly
 astro photography
 astronomy
 autocad
 autohotkey
 automation
-aws
 bacon
 beer
 blender 3d
 book editing
-carl sagan
-c language
+cage
 c sound
 chess
 chords
@@ -63,16 +81,13 @@ computer parts
 computer science
 computers
 cooking
-css
 daisy
 data science
 data visualisation
 deep learning
 desktop customization
-docker
 drawing
 editing
-ffmpeg
 fine arts
 fractals
 functional art
@@ -95,10 +110,7 @@ interactive art
 interactive music
 interactive sculptures
 jam sessions
-javascript
-john cage
 krita
-kubernetes
 linux
 live music
 live streams
@@ -113,20 +125,17 @@ music
 music scores
 music education
 neural networks
-nginx
-perl
 philosophy
 phish
 physics
 programming
 puredata
 puzzles
-python
 reason
 robotics
+sagan
 science fiction
 science literature
-shell scripting
 sibelius
 simulations
 streaming
