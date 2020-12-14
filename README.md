@@ -44,6 +44,7 @@ css
 django
 docker
 ffmpeg
+html
 javascript
 keras
 kubernetes
@@ -101,7 +102,6 @@ grateful dead
 guitars
 hacking
 hardware
-html
 i ching
 illustration/drawing
 image editing
