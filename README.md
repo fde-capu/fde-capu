@@ -45,7 +45,7 @@ django
 docker
 ffmpeg
 javascript
-keras  
+keras
 kubernetes
 nginx
 php
