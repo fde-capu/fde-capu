@@ -34,6 +34,7 @@ Software development; Artificial Intelligence.
 
 ---
 
+<sup><sub>
 <div style='font-size:29%; color:darkgrey;'>
 angular
 apache
@@ -187,4 +188,5 @@ windows
 writing
 zen
 and more
+</sub></sup>
 </div>
