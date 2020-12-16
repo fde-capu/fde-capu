@@ -35,6 +35,7 @@ Software development; Artificial Intelligence.
 ---
 
 <sup><sub style='font-size:29%; color:darkgrey;'>
+<sup><sub>
 angular
 apache
 arch
@@ -187,4 +188,5 @@ windows
 writing
 zen
 and more
+</sub></sup>
 </sub></sup>
