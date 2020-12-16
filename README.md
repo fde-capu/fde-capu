@@ -67,6 +67,7 @@ algorithmic art
 animation
 arduino
 art
+artificial intelligence
 astro photography
 astronomy
 autocad
@@ -103,6 +104,7 @@ deep learning
 desktop customization
 dogs
 drawing
+école 42
 editing
 fine arts
 fluid dynamics
@@ -167,6 +169,7 @@ science fiction
 science literature
 sibelius
 simulations
+software development
 synthesis
 skulls
 sounds
