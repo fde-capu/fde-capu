@@ -34,7 +34,7 @@ Software development; Artificial Intelligence.
 
 ---
 
-<div style='font-size:60%;;'>
+<div style='font-size:29%; color:darkgrey;'>
 angular
 apache
 arch
