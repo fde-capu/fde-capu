@@ -34,7 +34,7 @@ Software development; Artificial Intelligence.
 
 ---
 
-<sub><sup>
+<sub><sup style='linespacing:50%;'>
 angular
 apache
 arch
