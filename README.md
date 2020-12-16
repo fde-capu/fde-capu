@@ -90,6 +90,7 @@ desktop customization
 drawing
 editing
 fine arts
+fluid dynamics
 fractals
 functional art
 games
