@@ -34,8 +34,7 @@ Software development; Artificial Intelligence.
 
 ---
 
-<sup><sub>
-<div style='font-size:29%; color:darkgrey;'>
+<sup><sub style='font-size:29%; color:darkgrey;'>
 angular
 apache
 arch
@@ -189,4 +188,3 @@ writing
 zen
 and more
 </sub></sup>
-</div>
