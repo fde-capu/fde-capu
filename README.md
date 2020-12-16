@@ -37,6 +37,7 @@ Software development; Artificial Intelligence.
 <sub><sup>
 angular
 apache
+arch
 assembly
 aws
 c language
@@ -48,6 +49,7 @@ html
 javascript
 keras
 kubernetes
+linux
 nginx
 php
 node.js
@@ -60,7 +62,9 @@ wordpress
 |
 general interests:
 algorithmic art
+animation
 arduino
+art
 astro photography
 astronomy
 autocad
@@ -72,8 +76,13 @@ blender 3d
 book editing
 cage
 c sound
+cellular automata
+chance
+chaos
 chess
 chords
+classical music
+coding
 comedy
 composition
 computer aid design
@@ -81,20 +90,27 @@ computer graphics
 computer parts
 computer science
 computers
+concerts
+contemporary
 cooking
+cosmos
 daisy
 data science
 data visualisation
 deep learning
 desktop customization
+dogs
 drawing
 editing
 fine arts
 fluid dynamics
 fractals
 functional art
-games
+gadgets
+game design
 game development
+games
+generative anything
 generative art
 generative games
 git
@@ -103,16 +119,20 @@ grateful dead
 guitars
 hacking
 hardware
+high definition
+humor
 i ching
+illusions
 illustration/drawing
 image editing
 improvising
+indie projects
 interactive art
 interactive music
 interactive sculptures
+jam bands
 jam sessions
 krita
-linux
 live music
 live streams
 love
@@ -121,24 +141,36 @@ magento
 mathematics
 mountains
 movies
-music composition
 music
-music scores
+music
+music composition
 music education
+music scores
+music theory
+nature
 neural networks
+originality
 philosophy
 phish
 physics
+procedural generation
 programming
 puredata
 puzzles
 reason
+rendering
+rick and morty
 robotics
 sagan
+science
 science fiction
 science literature
 sibelius
 simulations
+skulls
+sounds
+space
+space exploration
 streaming
 studying
 symphonic music
