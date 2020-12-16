@@ -52,6 +52,7 @@ kubernetes
 linux
 nginx
 php
+magento
 node.js
 perl
 postgresql
@@ -123,7 +124,7 @@ high definition
 humor
 i ching
 illusions
-illustration/drawing
+illustration
 image editing
 improvising
 indie projects
@@ -137,11 +138,9 @@ live music
 live streams
 love
 machine learning
-magento
 mathematics
 mountains
 movies
-music
 music
 music composition
 music education
@@ -167,6 +166,7 @@ science fiction
 science literature
 sibelius
 simulations
+synthesis
 skulls
 sounds
 space
