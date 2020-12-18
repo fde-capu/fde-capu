@@ -36,6 +36,7 @@ Software development; Artificial Intelligence.
 
 <sup><sub>
 <sub style='font-size:29%; color:darkgrey;'>
+general interests:
 angular
 apache
 arch
@@ -45,6 +46,7 @@ c language
 css
 django
 docker
+école 42
 ffmpeg
 html
 javascript
@@ -62,7 +64,6 @@ shell scripting
 typescript
 wordpress
 |
-general interests:
 algorithmic art
 animation
 arduino
@@ -104,7 +105,6 @@ deep learning
 desktop customization
 dogs
 drawing
-école 42
 editing
 fine arts
 fluid dynamics
