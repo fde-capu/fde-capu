@@ -124,6 +124,7 @@ guitars
 hacking
 hardware
 high definition
+human nature
 humor
 i ching
 illusions
@@ -171,7 +172,6 @@ sibelius
 simulations
 software development
 synthesis
-skulls
 sounds
 space
 space exploration
