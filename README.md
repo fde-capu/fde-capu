@@ -42,7 +42,10 @@ apache
 arch
 assembly
 aws
+basic
 c language
+c#
+cli
 css
 django
 docker
@@ -53,14 +56,16 @@ javascript
 keras
 kubernetes
 linux
-nginx
-php
 magento
+nginx
 node.js
 perl
+photoshop
+php
 postgresql
 python
-shell scripting
+regex
+shell
 typescript
 wordpress
 |
@@ -103,6 +108,7 @@ data science
 data visualisation
 deep learning
 desktop customization
+digital culture
 dogs
 drawing
 editing
