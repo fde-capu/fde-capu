@@ -49,6 +49,7 @@ cli
 css
 django
 docker
+dreams
 école 42
 ffmpeg
 html
@@ -158,6 +159,8 @@ music scores
 music theory
 nature
 neural networks
+night
+oracles
 originality
 philosophy
 phish
