@@ -51,6 +51,7 @@ django
 docker
 dreams
 école 42
+excell
 ffmpeg
 html
 javascript
@@ -68,6 +69,8 @@ python
 regex
 shell
 typescript
+visual basic
+word
 wordpress
 |
 algorithmic art
