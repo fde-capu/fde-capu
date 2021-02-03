@@ -37,12 +37,12 @@ Software development; Artificial Intelligence.
 <sup><sub>
 <sub style='font-size:29%; color:darkgrey;'>
 general interests:
-angular
 apache
 arch
 assembly
 aws
 basic
+blender 3d
 c language
 c#
 cli
@@ -56,15 +56,17 @@ ffmpeg
 html
 javascript
 keras
+krita
 kubernetes
 linux
 magento
+minikube
+nasm
 nginx
 node.js
 perl
 photoshop
 php
-postgresql
 python
 regex
 shell
@@ -85,7 +87,6 @@ autohotkey
 automation
 bacon
 beer
-blender 3d
 book editing
 cage
 c sound
@@ -147,7 +148,6 @@ interactive music
 interactive sculptures
 jam bands
 jam sessions
-krita
 live music
 live streams
 love
