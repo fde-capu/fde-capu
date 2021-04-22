@@ -44,6 +44,7 @@ aws
 basic
 blender 3d
 c language
+c++ cplusplus cpp
 c#
 cli
 css
