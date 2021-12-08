@@ -1,6 +1,6 @@
 Currently enrolled at [42 São Paulo](www.42sp.org.br).
 
-[ [GitHub](https://www.github.com/fde-capu) | [LinkedIn](https://www.linkedin.com/in/flaviocarrara/) | [Twitch](https://www.twitch.com/fde-capu) |  [Site](http://www.flaviocarrara.com) ]
+[ [GitHub](https://www.github.com/fde-capu) | [LinkedIn](https://www.linkedin.com/in/flaviocarrara/) | [Twitch](https://www.twitch.com/fde-capu) ]
 
 ---
 
