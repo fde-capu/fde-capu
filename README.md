@@ -1,4 +1,4 @@
-Currently enrolled at [42 São Paulo](www.42sp.org.br).
+Certified _Human Coder_ at [42 São Paulo](www.42sp.org.br). Adventurer of creativity and algorythms.
 
 [ [GitHub](https://www.github.com/fde-capu) | [LinkedIn](https://www.linkedin.com/in/flaviocarrara/) | [Twitch](https://www.twitch.com/fde-capu) ]
 
