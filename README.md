@@ -26,7 +26,7 @@ Composer and Human Coder.
 ### Main Technologies 
 
 * **C/C++, JavaScript, Bash, Docker, Git, Linux, Unix, Linux, json, HTML, CSS, OOP**.
-* Basics for: Python, Kubernetes, Node.js, Angular, NestJS, PostgreSQL, TypeScript, Grafana, OOP.
+* Basics for: Python, Kubernetes, Node.js, Angular, NestJS, PostgreSQL, TypeScript, Grafana.
 
 ## On Music, Audio and Arts
 
