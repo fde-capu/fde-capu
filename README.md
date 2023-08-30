@@ -36,8 +36,8 @@ Composer and Human Coder.
 
 * **Bachelor of Music Composition**, Faculdade Santa Marcelina, São Paulo, 2006.
     * Monograph on **John Cage**'s "Cybernetics between Chaos and Cosmos" [Link](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf).
-    * Received scholarships and participated in music festivals.
-    * Participated in courses on concert and incidental music.
+* Received scholarships and participated in concert music festivals.
+* Participated in courses about incidental music.
 
 ### Professional Experience
 
