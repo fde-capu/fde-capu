@@ -28,7 +28,7 @@ Composer and Human Coder.
 * **C/C++, JavaScript, Bash, Docker, Git, Linux, Unix, Linux, json, HTML, CSS, OOP**.
 * Basics for: Python, Kubernetes, Node.js, Angular, NestJS, PostgreSQL, TypeScript, Grafana.
 
-## On Music, Audio and Arts
+## On Music, Audio, and Arts
 
 * **Bachelor of Music Composition**, Faculdade Santa Marcelina, São Paulo, 2006.
     * Monograph on John Cage's "Cybernetics between Chaos and Cosmos" [Link](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf).
