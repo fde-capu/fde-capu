@@ -56,9 +56,9 @@ Composer and Human Coder.
 
 ## Interests
 
-* Art & Generative Algorithms
-* Deep Learning & its application in games and art
-* Music & Audio Composition
+* Art & Generative Algorithms;
+* Deep Learning & its application in games and art;
+* Music & Audio Composition;
 
 ## Contact Information
 
