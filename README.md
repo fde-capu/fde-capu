@@ -10,7 +10,7 @@ Composer and Human Coder.
       * Developed an **HTTP server** from scratch using only C++98.
       * Created a **shell emulator** entirely in C, no external libraries.
 	  * Created a **ray tracer** in C, no externals.
-	  * More: re-wrote the STL containers; worked with multi-threads; some Assembly; re-implemented the libc functions.
+	  * More: re-wrote the STL containers; worked with multi-threads/mutexes/semaphores; some Assembly; re-implemented the libc functions.
 	* All projects were crash and leak free, scoring **100 or more**.
 	* Participated in workshops about **Kanban** and **Agile** principles.
 
@@ -27,8 +27,10 @@ Composer and Human Coder.
 
 ### Main Technologies 
 
-* **C/C++, JavaScript, Bash, Docker, Git, Linux, Unix, Linux, json, HTML, CSS, OOP**.
-* Basics for: Python, Kubernetes, Node.js, Angular, NestJS, PostgreSQL, TypeScript, Grafana.
+* **C, C++, STL, JavaScript, Bash, Docker, Git, Linux, Unix, Linux, HTTP, JSON, HTML, CSS, OOP**.
+* **Basics of**: Assumbly, Python, Kubernetes, Node.js, Angular, NestJS, PostgreSQL/MySQL/MariaDB, InfluxDB, TypeScript, Grafana, Minikube, Makefile.
+* **General concepts of**: networking, protocols, and terminologies.
+* **Availability to learn technologies** on demand.
 
 ## On Music, Audio, and Arts
 
@@ -50,7 +52,7 @@ Composer and Human Coder.
 * **Mars.War**, Full Symphonic Orchestra, Contemplated by Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri. [Listen Here](https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3). 
 * **Insustentáveis**, 13-episode TV series produced by Cérberos Filmes and Vermelho Filmes. Composed, produced, and synchronized sound track. 
 * **Sonhos de Peixe**, feature film, directed by Kirill Mikhanovsky. Assistant for Sound Design and Master.
-* More: Researcher on a **Neuroscience** startup; **Experimental Art Collective** member; **Plastic Artist**.
+* More: Researcher on a **Neuroscience** startup; **Experimental Art Collective** member (home made instruments and real time eletronics); **Plastic Artist**.
 
 ## Interests
 
