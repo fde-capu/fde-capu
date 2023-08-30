@@ -46,9 +46,7 @@ Composer and Human Coder.
 ### Highlights
 
 * **Mars.War** (Symphonic) [Listen Here](https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3). Full Symphonic Contemplation Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri.
-
 * **Insustentáveis**, 13-episode TV series produced by Cérberos Filmes and Vermelho Filmes. Composed, produced, and synchronized sound track. 
-
 * **Sonhos de Peixe**, feature film, directed by Kirill Mikhanovsky. Assistant for Sound Design and Master.
 
 ## Interests
