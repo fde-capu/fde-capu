@@ -15,9 +15,9 @@ Composer and Human Coder.
 ### Other Certificates
 
 * **Python for Data Science and Machine Learning - Complete**.
-	* 18 hours, Pierian Data International by Jose Pertilla, Instructor. Certificate no. UC-45NLPBY5 [Link](ude.my/UC-45NLPBY5).
+	* 18 hours, Pierian Data International by Jose Pertilla, Instructor. Certificate no. UC-45NLPBY5 [Link](https://ude.my/UC-45NLPBY5).
 * **Python 3 Complete - From beginning to advanced**
-	* 10 hours, Pierian Data Inc., Instructor. Certificate no. UC-ZC0FBP09 [Link](ude.my/UC-ZC0FBP09).
+	* 10 hours, Pierian Data Inc., Instructor. Certificate no. UC-ZC0FBP09 [Link](https://ude.my/UC-ZC0FBP09).
 * SPTW 2019 - **Inteligência Artificial & Data Science Fundamentals**
 	* 3 hours, Samsung Ocean. Certificate no. 14-1644-16487.
 * **Deep Larning introduction with Python and Keras**
