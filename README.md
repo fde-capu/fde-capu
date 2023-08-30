@@ -31,14 +31,14 @@ Composer and Human Coder.
 ## On Music, Audio, and Arts
 
 * **Bachelor of Music Composition**, Faculdade Santa Marcelina, São Paulo, 2006.
-    * Monograph on John Cage's "Cybernetics between Chaos and Cosmos" [Link](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf).
+    * Monograph on **John Cage**'s "Cybernetics between Chaos and Cosmos" [Link](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf).
     * Received scholarships and participated in music festivals.
     * Participated in courses on concert and incidental music.
 
 ### Professional Experience
 
 * **Studio Director**, Iran do Espírito Santo (2014 - 2016)
-	* Including making of CAD projects for complex sculptures production and installations.
+	* Including making of **CAD projects** for complex sculptures production and installations.
 * **Consultant and Coordinator**, Editora Irmãos Vitale (2007 - 2009)
 	* Activities on printed music, book editing, and copyrighting.
 * And more: **Experimental Art Collective** member; **plastic arts**; instrument **salesman**; **web store** development; **corporate e-mail producer**.
