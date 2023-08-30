@@ -13,6 +13,7 @@ Composer and Human Coder.
 	  * More: re-wrote the STL containers; worked with multi-threads/mutexes/semaphores; some Assembly; re-implemented the libc functions.
 	* All projects were crash and leak free, scoring **100 or more**.
 	* Participated in workshops about **Kanban** and **Agile** principles.
+	* Common-core completed. Further specialization projects open.
 
 ### Other Certificates
 
@@ -27,7 +28,7 @@ Composer and Human Coder.
 
 ### Main Technologies 
 
-* **C, C++, STL, JavaScript, Bash, Docker, Git, Linux, Unix, Linux, HTTP, JSON, HTML, CSS, OOP**.
+* **C, C++, STL, JavaScript, Bash, Docker, Git, Linux, Unix, Linux, HTTP, JSON, HTML, CSS, OOP, Vim**.
 * **Basics of**: Assumbly, Python, Kubernetes, Node.js, Angular, NestJS, PostgreSQL/MySQL/MariaDB, InfluxDB, TypeScript, Grafana, Minikube, Makefile.
 * **General concepts of**: networking, protocols, and terminologies.
 * **Availability to learn technologies** on demand.
@@ -35,7 +36,7 @@ Composer and Human Coder.
 ## On Music, Audio, and Arts
 
 * **Bachelor of Music Composition**, Faculdade Santa Marcelina, São Paulo, 2006.
-    * Monograph on **John Cage**'s "Cybernetics between Chaos and Cosmos" [Link](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf).
+    * Monograph on **John Cage**: "Cybernetics Between Chaos and Cosmos" [Link](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf).
 * Received scholarships and participated in concert music festivals.
 * Participated in courses about incidental music.
 
