@@ -42,9 +42,9 @@ Composer and Human Coder.
 
 ### Professional Experience
 
-* **Studio Director**, Iran do Espírito Santo (2014 - 2016)
+* **Studio Director**, Iran do Espírito Santo (2014 - 2016).
 	* Including making of **CAD projects** for complex sculptures production and installations.
-* **Consultant and Coordinator**, Editora Irmãos Vitale (2007 - 2009)
+* **Consultant and Coordinator**, Editora Irmãos Vitale (2007 - 2009).
 	* Activities on printed music, book editing, and copyrighting.
 * More: **Graphic Animator**; Instrument **Salesman**; **Web Store** Development; **Corporate E-mail** Producer.
 
