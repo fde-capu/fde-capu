@@ -2,15 +2,15 @@
 
 Composer and Human Coder.
 
-## Education on Software Develpment
+## Education on Computer Engineering
 
 * **Human Coder**, École 42, **42SP**, São Paulo, 2023.
-	* Peer-to-peer learning focused in **Unix**, **C**, **C++**, **K8s**, and web frameworks. Examples:
+	* Peer-to-peer learning focused in **Unix**, **C**, **C++**, **K8s**, and web frameworks.
       * Created a **real-time multiplayer game** with socials: chats, user profiles, invites, and roles.
       * Developed an **HTTP server** from scratch using only C++98.
       * Created a **shell emulator** entirely in C, no external libraries.
 	  * Created a **ray tracer** in C, no externals.
-	  * More: re-wrote the STL containers; worked with multi-threads/mutexes/semaphores; some Assembly; re-implemented the libc functions.
+	  * More: re-wrote the STL containers; worked with multi-threads/mutexes/semaphores; some Assembly; re-implemented libc functions.
 	* All projects were crash and leak free, scoring **100 or more**.
 	* Participated in workshops about **Kanban** and **Agile** principles.
 	* Common-core completed. Further specialization projects open.
