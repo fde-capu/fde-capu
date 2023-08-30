@@ -5,12 +5,14 @@ Composer and Human Coder.
 ## Education on Software Develpment
 
 * **Human Coder**, École 42, **42SP**, São Paulo, 2023.
-    * Peer-to-peer learning focused in low-level development using **Unix**, **C**, **C++**, **K8s**, and web frameworks. Examples:
+	* Peer-to-peer learning focused in **Unix**, **C**, **C++**, **K8s**, and web frameworks. Examples:
       * Created a **real-time multiplayer game** with socials: chats, user profiles, invites, and roles.
       * Developed an **HTTP server** from scratch using only C++98.
       * Created a **shell emulator** entirely in C, no external libraries.
 	  * Created a **ray tracer** in C, no externals.
-	  * And more: re-wrote the STL containers; worked with multi-threads; some Assembly; re-implemented the libc functions.
+	  * More: re-wrote the STL containers; worked with multi-threads; some Assembly; re-implemented the libc functions.
+	* All projects in school were crash and leak free, scoring **100 or more**.
+	* Participated in workshops about **Kanban** and **Agile** principles.
 
 ### Other Certificates
 
@@ -41,13 +43,14 @@ Composer and Human Coder.
 	* Including making of **CAD projects** for complex sculptures production and installations.
 * **Consultant and Coordinator**, Editora Irmãos Vitale (2007 - 2009)
 	* Activities on printed music, book editing, and copyrighting.
-* And more: **Experimental Art Collective** member; **plastic arts**; instrument **salesman**; **web store** development; **corporate e-mail producer**.
+* More: **Graphic Animator**; Instrument **Salesman**; **Web Store** Development; **Corporate E-mail** Producer.
 
 ### Highlights
 
 * **Mars.War**, Full Symphonic Orchestra, Contemplated by Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri. [Listen Here](https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3). 
 * **Insustentáveis**, 13-episode TV series produced by Cérberos Filmes and Vermelho Filmes. Composed, produced, and synchronized sound track. 
 * **Sonhos de Peixe**, feature film, directed by Kirill Mikhanovsky. Assistant for Sound Design and Master.
+* More: Researcher on a **Neuroscience** startup; **Experimental Art Collective** member; **Plastic Artist**.
 
 ## Interests
 
