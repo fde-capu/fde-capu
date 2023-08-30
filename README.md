@@ -4,28 +4,29 @@ Composer and Human Coder.
 
 ## Education on Software Develpment
 
-* **Human Coder**, École 42 São Paulo, 2023.
-    * Peer-to-peer learning focused in low level development using Unix, C, C++, K8s, and web frameworks. Some examples:
-      * Created a real-time multiplayer Pong with socials: chats, user profiles, invites, and roles.
-      * Developed an HTTP server from scratch using only C++98.
-      * Created a shell emulator entirely in C, no external libraries.
-	  * Created a ray tracer in C, no externals.
-	  * And more: Re-wrote the STL containers; worked with multi-threads; some Assembly; re-implemented low-level libc functions.
+* **Human Coder**, École 42, **42SP**, São Paulo, 2023.
+    * Peer-to-peer learning focused in low-level development using **Unix**, **C**, **C++**, **K8s**, and web frameworks. Examples:
+      * Created a **real-time multiplayer game** with socials: chats, user profiles, invites, and roles.
+      * Developed an **HTTP server** from scratch using only C++98.
+      * Created a **shell emulator** entirely in C, no external libraries.
+	  * Created a **ray tracer** in C, no externals.
+	  * And more: re-wrote the STL containers; worked with multi-threads; some Assembly; re-implemented the libc functions.
 
 ### Other Certificates
 
-* Python for Data Science and Machine Learning - Complete.
+* **Python for Data Science and Machine Learning - Complete**.
 	* 18 hours, Pierian Data International by Jose Pertilla, Instructor. Certificate no. UC-45NLPBY5 [Link](ude.my/UC-45NLPBY5).
-* Python 3 Complete - From beginning to advanced!
+* **Python 3 Complete - From beginning to advanced**
 	* 10 hours, Pierian Data Inc., Instructor. Certificate no. UC-ZC0FBP09 [Link](ude.my/UC-ZC0FBP09).
-* SPTW 2019 - Inteligência Artificial & Fundamentos para Data Science
+* SPTW 2019 - **Inteligência Artificial & Data Science Fundamentals**
 	* 3 hours, Samsung Ocean. Certificate no. 14-1644-16487.
-* Introdução ao Deep Learning com Python e Keras
+* **Deep Larning introduction with Python and Keras**
 	* 6 hours, Samsung Ocean. Certificate no. 14-1718-16487.
 
 ## Main Technologies 
 
-* C/C++, Python, JavaScript, Bash, Docker, Kubernetes, Git, Linux, Node.js, Angular, NestJS, PostgreSQL, Unix, Linux, json, TypeScript, Grafana, HTML, CSS, OOP, unit testing.
+* **C/C++, JavaScript, Bash, Docker, Git, Linux, Unix, Linux, json, HTML, CSS, OOP**.
+* Basics for: Python, Kubernetes, Node.js, Angular, NestJS, PostgreSQL, TypeScript, Grafana, OOP.
 
 ## Summary of Music Education
 
@@ -40,7 +41,7 @@ Composer and Human Coder.
 	* Including making of CAD projects for complex sculptures production and installations.
 * **Consultant and Coordinator**, Editora Irmãos Vitale (2007 - 2009)
 	* Activities on printed music, book editing, and copyrighting.
-* **Experimental Art** collective participant.
+* And more: **Experimental Art Collective** member; **plastic arts**; instrument **salesman**; **web store** development; **corporate e-mail producer**.
 
 ### Composition and Audio Works Highlights
 
