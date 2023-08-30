@@ -11,7 +11,7 @@ Composer and Human Coder.
       * Created a **shell emulator** entirely in C, no external libraries.
 	  * Created a **ray tracer** in C, no externals.
 	  * More: re-wrote the STL containers; worked with multi-threads; some Assembly; re-implemented the libc functions.
-	* All projects in school were crash and leak free, scoring **100 or more**.
+	* All projects were crash and leak free, scoring **100 or more**.
 	* Participated in workshops about **Kanban** and **Agile** principles.
 
 ### Other Certificates
