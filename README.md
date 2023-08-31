@@ -1,21 +1,21 @@
 # Flávio Carrara De Capua
 
-Composer and Human Coder.
+Developer and Composer
 
 ## Education on Computer Engineering
 
 * **Human Coder**, École 42, **42SP**, São Paulo, 2023.
 	* Peer-to-peer learning focused in **Unix**, **C**, **C++**, **K8s**, and web frameworks.
-      * Created a **real-time multiplayer game** with socials: chats, user profiles, invites, and roles.
-      * Developed an **HTTP server** from scratch using only C++98.
-      * Created a **shell emulator** entirely in C, no external libraries.
-	  * Created a **ray tracer** in C, no externals.
-	  * More: re-wrote the STL containers; worked with multi-threads/mutexes/semaphores; some Assembly; re-implemented libc functions.
-	* All projects were crash and leak free, scoring **100 or more**.
+		* Created a **real-time multiplayer game** with socials (chats, user profiles, invites, and roles).
+		* Developed a **HTTP server**, C++98.
+		* Created a **shell emulator**, C.
+		* Created a **ray tracer** C.
+		* More: re-wrote the STL containers; worked with multi-threads; re-implemented libc functions.
+	* All projects used **none of external libraries**, and were **crash and leak free**.
 	* Participated in workshops about **Kanban** and **Agile** principles.
 	* Common-core completed. Further specialization projects open.
 
-### Other Certificates
+### Certificates
 
 * **Python for Data Science and Machine Learning - Complete**.
 	* 18 hours, Pierian Data International by Jose Pertilla, Instructor. Certificate no. UC-45NLPBY5 [Link](https://ude.my/UC-45NLPBY5).
@@ -31,9 +31,9 @@ Composer and Human Coder.
 * **C, C++, STL, JavaScript, Bash, Docker, Git, Linux, Unix, Linux, HTTP, JSON, HTML, CSS, OOP, Vim**.
 * **Basics of**: Assumbly, Python, Kubernetes, Node.js, Angular, NestJS, PostgreSQL/MySQL/MariaDB, InfluxDB, TypeScript, Grafana, Minikube, Makefile.
 * **General concepts of**: networking, protocols, and terminologies.
-* **Availability to learn technologies** on demand.
+* **Availability to learn** on demand.
 
-## On Music, Audio, and Arts
+## Music, Audio, and Arts
 
 * **Bachelor of Music Composition**, Faculdade Santa Marcelina, São Paulo, 2006.
     * Monograph on **John Cage**: "Cybernetics Between Chaos and Cosmos" [Link](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf).

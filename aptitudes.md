@@ -48,7 +48,6 @@ bacon P
 bash C2+C3+D+G+J+K3+N+I2
 basic A+H
 blender 3d F+D+J+K3+L+N2
-book editing C2+D2+L+O
 book editing C2+L+M3+O1
 c language C2+D+G+K3+N+I2
 c sound A+C3+D+F+J+K+M+O+P
