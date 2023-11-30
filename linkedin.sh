@@ -9,7 +9,7 @@ sed \
 	-e '/^#/d' \
 	-e 's/\*\*//g' \
 	-e '/^\t\+\* [0-9]/d' \
-	-e 's/ \[.\+\](.\+)//g' \
+	-e 's/\[\(.\+\)\](.\+)/\1/g' \
 	-e 's/\.\./\./g' \
 	$infile > $tmpfile
 
@@ -21,7 +21,7 @@ sed \
 sed -e ':a; $!{N;ba}; s/\n\n/\n/g' \
 	-i $tmpfile
 
-head -n -3 $tmpfile > $outfile
+head -n -4 $tmpfile > $outfile
 #cat $tmpfile > $outfile
 
 rm $tmpfile

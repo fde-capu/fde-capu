@@ -1,6 +1,6 @@
 * Human Coder, École 42, 42SP, São Paulo, 2023.
 	* Peer-to-peer learning focused in Unix, C, C++, K8s, and web frameworks.
-		* Real-time multiplayer game with socials (chats, user profiles, invites, and roles); Angular, NestJs, Postgress, Docker.
+		* Real-time multiplayer game with socials (chats, user profiles, invites, and roles).
 		* HTTP 1.1 compliant server with CGI; C++98.
 		* Shell emulator; C.
 		* Ray tracer; C.
@@ -19,7 +19,7 @@
 * Deep Learning introduction with Python and Keras. 6 hours, Samsung Ocean. Certificate no. 14-1718-16487.
 
 * Bachelor of Music Composition, Faculdade Santa Marcelina, São Paulo, 2006. Monograph on John Cage: "Cybernetics Between Chaos and Cosmos".
-* Mars.War, Full Symphonic Orchestra, 2004. Contemplated by Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri. 
+* Mars.War, Full Symphonic Orchestra, 2004. Contemplated by Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri.
 * Composed and produced music for education, advertising, series, and films.
 * Participated in: scholarships; concert music festivals; other general courses.
 
