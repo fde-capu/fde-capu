@@ -10,22 +10,29 @@ sed \
 	-e 's/\*\*//g' \
 	-e '/^\t\+\* [0-9]/d' \
 	-e 's/ \[.\+\](.\+)//g' \
+	-e 's/\.\./\./g' \
 	$infile > $tmpfile
+
+#	-e 's/[0-9]\+ hours, //g' \
+#	-e 's/International\..*/International./g' \
+#	-e 's/Ocean\..*/Ocean./g' \
+#	-e '/Participated.*/d' \
 
 sed -e ':a; $!{N;ba}; s/\n\n/\n/g' \
 	-i $tmpfile
 
-head -n -8 $tmpfile > $outfile
+head -n -3 $tmpfile > $outfile
+#cat $tmpfile > $outfile
 
 rm $tmpfile
 
-echo -e "\n* Art & Generative Algorithms; Deep Learning; Music." >> $outfile
+cat $outfile
 
 bytes=`du -b $outfile | awk '{print $1}'`
 if [[ $bytes -gt 2600 ]] ; then
 	echo "$bytes (max: 2600) fail.";
 	exit 1;
 else
-	echo "$bytes ok.";
+	echo "$bytes ok (max:2600).";
 	exit 0;
 fi;
