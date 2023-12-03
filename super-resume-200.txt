@@ -1,0 +1,6 @@
+Human Coder, École 42, 42SP, São Paulo, 2023.
+C, C++, STL, JavaScript, Bash, Docker, Git, Unix, Linux, HTTP, JSON, HTML, CSS, OOP, Vim.
+Bachelor of Music Composition, FASM, 2006.
+Arts & Generative Algorithms;
+Deep Learning & its application in science and art;
+Music & Audio Composition and interactivity;
