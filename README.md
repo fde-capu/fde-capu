@@ -5,7 +5,7 @@ Software Developer and Composer
 ## Computer Science
 
 * **Human Coder**, **École 42**, **42SP**, São Paulo, 2023.
-	* Peer-to-peer learning focused in Unix, C, C++, K8s, and Web frameworks.
+	* Peer-Evaluation learning focused in Unix, C, C++, K8s, and Web frameworks.
 		* Real-time multiplayer game with socials (chats, user profiles, invites, and roles).
 		* HTTP 1.1 compliant server with CGI; C++98.
 		* Shell emulator; C.
@@ -27,7 +27,7 @@ Software Developer and Composer
 * SPTW 2019 - **Artificial Intelligence & Data Science Fundamentals**. 3h, Samsung Ocean. 14-1644-16487.
 * **Deep Learning introduction with Python and Keras**. 6h, Samsung Ocean. 14-1718-16487.
 
-## Music, Audio, and Arts
+## Music
 
 * **Bachelor of Music Composition**, FASM, 2006. Monograph: [**John Cage**: Cybernetics Between Chaos and Cosmos](https://github.com/fde-capu/fde-capu/blob/main/J-Cage.pdf).
 * **[Mars.War](https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3)**, Symphonic Orchestra, 2004. Contemplated by Gilberto Mendes 39th New Music Festival.

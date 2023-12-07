@@ -175,6 +175,6 @@ About all:
 Look into the concepts that underlie each learned topic.
 
 About the school:
-peer-to-peer evaluations (say more about this method of working)
-kanban, agile (say more about it)
+peer-to-peer evaluations
+experiences with kanban, agile
 All programs free of crashes and leaks

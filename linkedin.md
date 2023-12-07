@@ -1,5 +1,5 @@
 * Human Coder, École 42, 42SP, São Paulo, 2023.
-	* Peer-to-peer learning focused in Unix, C, C++, K8s, and Web frameworks.
+	* Peer-Evaluation learning focused in Unix, C, C++, K8s, and Web frameworks.
 		* Real-time multiplayer game with socials (chats, user profiles, invites, and roles).
 		* HTTP 1.1 compliant server with CGI; C++98.
 		* Shell emulator; C.
