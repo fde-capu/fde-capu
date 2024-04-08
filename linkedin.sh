@@ -27,6 +27,7 @@ head -n -4 $tmpfile > $outfile
 rm $tmpfile
 
 cat $outfile
+cat "$outfile" | xclip -selection clipboard
 
 bytes=`du -b $outfile | awk '{print $1}'`
 if [[ $bytes -gt 2600 ]] ; then
