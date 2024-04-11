@@ -1,6 +1,50 @@
 ### Details about professional experience
 
-These details are ommited from the main CV for summary purposes
+## Card for Whatzapp
+
+Flávio Carrara
+* flacarrara@gmail.com
+* https://www.github.com/fde-capu
+* https://www.linkedin.com/in/flaviocarrara/
+
+#### Greater familiarity:
+
+- Art Director
+- Back End Engineer
+- C++ Engineer
+- Cloud Architect/Engineer
+- Data Analytics
+- Data Quality Analyst
+- Data Scientist
+- Front End/UI Engineer
+- Full Stack Engineer
+- Intern in Technology
+- Machine Learning Engineer
+- System Engineer
+- Technical Writer
+
+#### Minor familiarity (learn on demand):
+
+- .Net
+- Android Engineer
+- Cyber Security
+- Data Architect/Engineer
+- Golang
+- Java
+- Ruby
+- Graphic Design
+- IOS
+- Infrastructure Analyst
+- Java
+- Mobile Engineer
+- React
+- Oracle Suite
+- Amazon Suite
+- PCD Engineer
+- Ruby on Rails
+- Rust
+
+-------------
 
 * **Insustentáveis**, 13-episode TV series produced by Cérberos Filmes and Vermelho Filmes. Composed, produced, and synchronized sound track. 
 * **Sonhos de Peixe**, feature film, directed by Kirill Mikhanovsky. Assistant for Sound Design and Master.
@@ -11,70 +55,6 @@ These details are ommited from the main CV for summary purposes
 - voluntary exps.
 
 ---
-
-#### Greater familiarity:
-
-- Art Director
-- Back End Engineer
-- C++ Engineer
-- Cloud Architect
-- Cloud Engineer
-- Data Alaytics Intern
-- Data Analyst
-- Data Quality Analyst
-- Data Scientist
-- Front End Lead
-- Front End or UI Engineer
-- Full Stack Engineer
-- Fullstack Node
-- Fullstack PHP
-- Fullstack Python
-- Fullstack React
-- IOS Engineer
-- Intern (Tech)
-- Machine Learning Engineer
-- Magento Engineer
-- Node JS Engineer
-- PHP Engineer
-- Performace Engineer
-- Python Engineer
-- System Engineer
-- Tech Lead Node
-- Technical Writer
-
-#### Minor familiarity (learn on demand):
-
-- .Net Engineer
-- Android Engineer
-- Cyber Security Specialist
-- Data Architect
-- Data Engineer
-- Delphi
-- Flutter
-- Fullstack .NET
-- Fullstack Golang
-- Fullstack Java
-- Fullstack Ruby
-- Goland Engineer
-- Graphic Designer
-- Infrastructure (Internal)
-- Infrastructure Analyst
-- Java Architect
-- Java Engineer
-- Java Tech Lead
-- Jira Engineer
-- Machine Learning Specialist
-- Mobile Engineer React Native
-- Motion Designer
-- Netsuite Engineer
-- Oracle CPQ Administrator
-- Oracle Developer
-- Oracle Funcional Analyst
-- PCD Engineer
-- Ruby on Rails Developer
-- Rust Engineer
-
--------------
 
 # Flávio Carrara De Capua
 
