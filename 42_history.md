@@ -1,4 +1,13 @@
-ft_transcendenceo
+# 42SP
+## Summary of Common-Core Projects
+#### fde-capu
+
+### About the school:
+- peer-to-peer evaluations
+- experiences with kanban, agile
+- All programs free of crashes and leaks
+
+### ft_transcendenceo
 This project is about creating a website for the mighty Pong contest!
 user interface, a chat, and real-time multiplayer
 mini-social network (profiles, invites, chat with admin roles, etc)
@@ -8,7 +17,7 @@ only stable libraries.
 ...and any other dependencies of the above.
 Final Mark: 100
 
-webserv
+### webserv
 This project is about writing your ow HTTP server.
 Hypertext Transfer Protocol (HTTP) 
 Non-blocking uncrashable webserver from scratch
@@ -23,7 +32,7 @@ bash scripting (for unit tests)
 ...and any other dependencies of the above.
 Final Mark: 125
 
-ft_containers
+### ft_containers
 The multiple available containers in C++ all have very different usage. To make sure you understand them, let’s re-implement them!
 Complex templating and specialization
 Code standards
@@ -35,13 +44,13 @@ red-black tree implementation
 ALL in C++98 (no C++11)
 Final Mark: 125
 
-CPP Modules
+### CPP Modules
 Object oriented programming
 inheritance
 string manipulation, type conversion
 Final Mark: 100
 
-minishell
+### minishell
 This project is about creating a simple shell. Yes, your own little bash.
 Pure C language.
 Commands (and concepts about them):
@@ -61,7 +70,7 @@ pipes
 signals
 Final Mark: 100
 
-ft_services
+### ft_services
 Kubernetes
 Docker (without Docker-Compose)
 Microservices
@@ -78,7 +87,7 @@ Unix users and groups
 ssh
 Final Mark: 100
 
-miniRT
+### miniRT
 Raytracing implementation by pixel basis
 The goal of your program is to generate
 images using the Raytracing protocol. Those
@@ -99,13 +108,13 @@ library (-lm man man 3 math)
 pure C language
 Final Mark: 105
 
-push_swap
+### push_swap
 sorting algorithms
 pure C language
 no external functions besides read, write, malloc, free, exit
 Final Mark: 97
 
-Philosophers
+### Philosophers
 Multithreading and Mutexes
 Semaphores
 Concepts about: memset, printf, malloc, free, write,
@@ -115,7 +124,7 @@ pthread_mutex_destroy, pthread_mutex_lock,
 pthread_mutex_unlock
 Final Mark: 100
 
-libasm
+### libasm
 Assembly implementations of:
 strlen
 strcpy
@@ -125,22 +134,22 @@ read
 strdup
 Final Mark: 100
 
-netwhat
+### netwhat
 general Networking Terminology, Interfaces, and Protocols
 Final Mark: 100
 
-get_next_line
+### get_next_line
 smart implementation of `read` in C
 Final Mark: 115
 
-ft_printf
+### ft_printf
 pure C language implementation of the original printf
 variadic functions
 uses only malloc, free, write,
 va_start, va_arg, va_copy, va_end
 Final Mark: 102
 
-Libft
+### Libft
 pure C implementations of
 isalpha
 • isdigit
@@ -169,12 +178,3 @@ Also: substr, strjoin, strtrim, split and itoa
 Other general string and file manipulations
 List templating (in pure C)
 Final Mark: 105
-
-
-About all:
-Look into the concepts that underlie each learned topic.
-
-About the school:
-peer-to-peer evaluations
-experiences with kanban, agile
-All programs free of crashes and leaks

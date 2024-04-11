@@ -9,8 +9,8 @@
 	* All projects fully functional, no use of external libraries, crash and leak free, score 97+.
 	* Common-core completed. Opened ongoing specializations.
 
-* Expertises: C, C++, STL, JavaScript, Bash, Docker, Git, Unix, Linux, HTTP, JSON, HTML, CSS, OOP, Vim.
-* Studies include: Assembly, Python, Kubernetes, Microservices, Node, Angular, SQL, Javascript, TypeScript, Grafana, Minikube, CMake, Multi-Threading, Algorithms, Network and System Administration.
+* Expertises: C, C++, OOP, STL, JavaScript, Bash, Docker, Git, Unix, Linux, HTTP, JSON, HTML, CSS, Vim.
+* Studies include: Assembly, Python, Kubernetes, Microservices, Virtual Machines, Node, Angular, SQL, Javascript, TypeScript, Grafana, Minikube, CMake, Multi-Threading, Algorithms, Network and System Administration.
 * Availability to learn on demand.
 
 * Python for Data Science and Machine Learning Complete. 18h, Pierian Data International. UC-45NLPBY5.
@@ -34,3 +34,4 @@
 * Arts & Generative Algorithms;
 * Deep Learning & its application in science and art;
 * Music & Audio Composition and interactivity;
+
