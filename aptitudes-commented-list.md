@@ -1,4 +1,6 @@
-A) things that I **once knew**, but just a little, **long time ago**, that I could re-research.
+How can we resume all these items characteristics in a simple concise paragraph? Or max three..? It might have a personal touch to the essay, some style (think of cyberpunk), but must not cross the line of not being fashionably professional.
+
+A) things that I **once knew**, just a little, **long time ago**, that I could re-research.
 B) things that I have **never researched, but would like to**.
 C) things that I have made **small functional formal projects**.
 C2) things that I have made **medium functional formal projects**.
@@ -27,6 +29,10 @@ O1) things that I have **professionaly worked with**.
 O2) things that I **currently work with**.
 P) things that are here for fun and showing my **personality** with no much professional value.
 P2) things that seem **redundant to note**, because of some other item on the list, or because superfluous.
+
+
+While some interests and aspects seem trivial on this list, they express many of my interests. From personal tastes to quirky projects to avant-garde technologies - and I have certainly forgotten to include many things, maybe I can update it from time to time - this was fun thing to do, to collect my own 'tags'.
+
 ....
 
 algorithmic art C+C3+D+D2+F+G+K3+M+O
@@ -110,7 +116,7 @@ i ching C3+F+L+N+P
 illusions P
 illustration O1+D2+M3
 improvising C3+D+D2+G+I2+K3+L+N+P
-indie proects B+D+D2+L+P2
+indie projects B+D+D2+L+P2
 interactive art D+D2+L+N+P2
 interactive music D+D2+L+N+P2
 interactive sculptures D+D2+L+N+P2
@@ -164,7 +170,7 @@ science P
 science fiction P
 science literature D+F+K3+L
 sibelius (software) A+C2+C3+D2+L+M3+O1
-simulations P+L
+simulation P+L
 software development C2+C3+D+D2+G+K3+L+N+O2+P2
 sounds C2+C3+D+D2+F+L+P2
 space P
@@ -193,4 +199,3 @@ word H2+L+O
 wordpress C+E+H2+K2+L
 writing P
 zen P
-école 42 G+I2+L+M2

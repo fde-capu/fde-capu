@@ -1,0 +1,5 @@
+As a developer, I've tackled a broad spectrum of projects, from low-level system programming, I/O operations, to network architecture, web applications, data structures, algorithms, reliability, and performance of software.
+
+For instance, I developed a non-blocking web server with full CGI in C++98 using Unix system calls and implementing the HTTP 1.1 protocol, complying to networking terminology, interfaces, and protocols. The ray-tracing project is rather a linear algebra computing research. In advanced projects, I have coded a full stack social network, with real time multiplayer game, and explored high level frameworks.
+
+As study-cases, I have completely rewritten the functions and functionalities of the C standard library and the C++ containers. Also, I have experienced use of multithreading, microservices, Kubernetes, Docker, management and deployment of applications.

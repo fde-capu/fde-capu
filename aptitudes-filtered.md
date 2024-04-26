@@ -41,8 +41,8 @@ cosmos
 css 
 daisy 
 data science 
-daw 
 data visualisation 
+daw 
 deep learning 
 desktop customization 
 digital culture 
@@ -79,7 +79,7 @@ i ching
 illusions 
 illustration 
 improvising 
-indie proects 
+indie projects 
 interactive art 
 interactive music 
 interactive sculptures 
@@ -113,7 +113,7 @@ oracles
 originality 
 perl 
 philosophy 
-phish 
+phish (band)
 photoshop 
 php 
 physics 
@@ -124,7 +124,8 @@ puredata
 puzzles 
 python 
 reading 
-reason 
+reason (conscience)
+reason (software)
 regex 
 rendering 
 robotics 
@@ -133,7 +134,7 @@ science
 science fiction 
 science literature 
 sibelius (software) 
-simulations 
+simulation
 software development 
 sounds 
 space 
@@ -162,4 +163,3 @@ word
 wordpress 
 writing 
 zen 
-école 42 

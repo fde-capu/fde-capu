@@ -7,6 +7,8 @@ Flávio Carrara
 * https://www.github.com/fde-capu
 * https://www.linkedin.com/in/flaviocarrara/
 
+Omnion
+
 #### Greater familiarity:
 
 - Art Director
