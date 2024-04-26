@@ -10,6 +10,8 @@ Flávio Carrara
 #### Greater familiarity:
 
 - Art Director
+- Art Technichian
+
 - Back End Engineer
 - C++ Engineer
 - Cloud Architect/Engineer

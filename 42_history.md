@@ -1,3 +1,7 @@
+As a developer, I've tackled a broad spectrum of projects, from low-level system programming and I/O operations to network architecture, web applications, data structures, algorithms, reliability and performance of software, as all projects are leak and crash free and developed from scratch, that is, no auxiliary imports.
+For instance, I developed a non-blocking web server in C++98 using Unix system calls and implementing the HTTP 1.1 protocol, having understanding of networking terminology, interfaces, and protocols. A raytracing project handles linear algebra, complex templating and file authoring. In advanced projects, I showcase skills in Angular, NestJS, Docker, and PostgreSQL. As study-cases, I have completelly re-written the functions and funcionalities of the C standard library and the C++ containers. Also, I have experienced use of microservices, Kubernetes, Docker, management and deployment of applications.
+
+
 # 42SP
 ## Summary of Common-Core Projects
 #### fde-capu
