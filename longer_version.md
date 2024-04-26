@@ -7,8 +7,6 @@ Flávio Carrara
 * https://www.github.com/fde-capu
 * https://www.linkedin.com/in/flaviocarrara/
 
-Omnion
-
 #### Greater familiarity:
 
 - Art Director
@@ -49,16 +47,6 @@ Omnion
 - Rust
 
 -------------
-
-* **Insustentáveis**, 13-episode TV series produced by Cérberos Filmes and Vermelho Filmes. Composed, produced, and synchronized sound track. 
-* **Sonhos de Peixe**, feature film, directed by Kirill Mikhanovsky. Assistant for Sound Design and Master.
-* **[Mars.War](https://github.com/fde-capu/fde-capu/blob/main/Flavio%20Carrara%20-%20Marte%20Guerra%20-%202004%20-%2010m28.mp3)**, Full Symphonic Orchestra, 2004. Contemplated by Gilberto Mendes Competition, 39th Música Nova Festival, Santos Symphony Orchestra, conducted by Maestro Luís Gustavo Petri.
-
-### Items to add/make clearer
-
-- voluntary exps.
-
----
 
 # Flávio Carrara De Capua
 
