@@ -27,7 +27,6 @@
 * Studio Director, Iran do Espírito Santo (2014 - 2016). CAD projects for complex sculptures and installations.
 * Consultant and Coordinator, Editora Irmãos Vitale (2007 - 2009). Activities on printed music, and copyrighting.
 
-* Researcher of Neuroscience for a startup on rehabilitation through music.
 * Member of Cubo^3 Experimental Art Collective: hand made instruments with real time electronics.
 * Other works: Autonomous; Graphic Animation; 3D modeling; Sales; Site and Web Store Development; Technical Services.
 

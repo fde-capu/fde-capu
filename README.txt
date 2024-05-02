@@ -41,7 +41,6 @@ Software Developer and Composer
 
 ## Extras
 
-* Researcher of **Neuroscience** in a startup for physical rehabilitation using synapses and music.
 * Member of an **Experimental Art Collective**: home made instruments and real time electronics.
 * **Other works**: Autonomous; Graphic Animation; 3D modeling; Sales; Site and Web Store Development; UX Design, Technical Services.
 
