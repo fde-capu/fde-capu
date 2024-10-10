@@ -21,13 +21,6 @@ Software Engineer and Composer
 * **Studies include**: Assembly, Python, Kubernetes, Microservices, Virtual Machines, Node, Angular, SQL, Javascript, TypeScript, Grafana, Minikube, CMake, Multi-Threading, Algorithms, Network and System Administration.
 * **Availability to learn** on demand.
 
-### Quick Courses
-
-* **Python for Data Science and Machine Learning Complete**. 18h, Pierian Data International. [UC-45NLPBY5](https://ude.my/UC-45NLPBY5).
-* **Python 3 Complete - From beginning to advanced**. 10h, Pierian Training. [UC-ZC0FBP09](https://ude.my/UC-ZC0FBP09).
-* SPTW 2019 - **Artificial Intelligence & Data Science Fundamentals**. 3h, Samsung Ocean. 14-1644-16487.
-* **Deep Learning introduction with Python and Keras**. 6h, Samsung Ocean. 14-1718-16487.
-
 ## Music
 
 * **Bachelor of Music Composition**, FASM, 2006.

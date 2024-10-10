@@ -1,0 +1,602 @@
+# Flávio Carrara De Capua
+
+Software Engineer and Composer
+## Computer Science
+
+* **Human Coder**, **École 42**, **42SP**, São Paulo, 2023. 000013-2023.
+	* Peer-Evaluation experience in Unix, C, C++, K8s, and Web frameworks.
+	* Developed:
+* Real-time multiplayer game with socials (chats, user profiles, invites, and roles).
+* HTTP 1.1 compliant server with CGI; C++98.
+* Shell emulator; C.
+* Ray tracer; C.
+* Re-wrote C++ STL library and libc.
+	* All projects fully functional, no use of external libraries, crash and leak free, score 97+.
+	* Common-core completed. Opened ongoing specializations.
+
+### Technologies
+* **Expertises**: C, C++, OOP, STL, Java Script, Bash, Docker, Git, Unix, Linux, HTTP, JSON, HTML, CSS, Vim.
+* **Studies include**: Assembly, Python, Kubernetes, Microservices, Virtual Machines, Node, Angular, SQL, Javascript, Type Script, Grafana, Minikube, CMake, Multi-Threading, Algorithms, Network and System Administration.
+* **Availability to learn** on demand.
+
+## Music
+* **Bachelor of Music Composition**, FASM, 2006.
+* **Mars. War**, Symphonic Orchestra, 2004. Contemplated by Gilberto Mendes 39th New Music Festival.
+* **Composed and produced music** for education, advertising, series, films.
+* **Editing** of physical and digital interactive books. Plus **animation**.
+* **Participated in** scholarships; concert music festivals; and courses.
+
+## Professional Experiences
+* **Studio Director**, Iran do Espírito Santo (2014 - 2016). **CAD projects** for complex sculptures and installations.
+* **Consultant and Coordinator**, Editora Irmãos Vitale (2007 - 2009). Activities on printed music, copyrighting.
+
+## Extras
+* Member of **Cubo^3 Experimental Art Collective**: hand made instruments with real time electronics.
+* **Other works**: Autonomous; Graphic Animation; 3D modeling; Sales; Site and Web Store Development; Technical Services.
+
+## Interests
+* Arts & Generative Algorithms;
+* Deep Learning & its application in science and art;
+* Music & Audio Composition and interactivity;
+
+## Contact Information
+- (fluent English)
+* [flacarrara@gmail.com](mailto:flacarrara@gmail.com)
+* [GitHub](https://www.github.com/fde-capu)
+* [Linked In](https://www.linkedin.com/in/flaviocarrara/)
+
+About
+The mesmerizing glow of the cathode ray tubes from the TK3000 IIe screen opened portals to worlds I could craft into game adventures. Later, the transcendent energy of freestyle jam sessions sparkled a love for music and its chaotic yet harmonious nature. Nowadays, I am enthusiastic about artificial intelligence to optimize solutions, enhance decision-making and improve creator, developer and user experiences. I am technically proficient and interested in exploring the mysteries of human creativity.
+
+Captivated by the convergence of functional logic and art expression, I pursued studies in both realms. I achieved a Bachelor of Music Composition from FASM University in 2006, having composed an international award winning full-orchestra score. More recently, in 2023, I earned an equivalent degree in Computer Science as "Human Coder" from École 42, a world-wide school of excellence focused in C/C++ based on peer reviewing that fosters collectiveness. I am currently enrolled in the 42 Advanced specialization program, which covers in-depth a vast spectrum of tech areas.
+
+I enjoy working in collaborative environments that encourage learning by knowledge exchange. Willing to continue developing interdisciplinary expertises, I welcome opportunities to collaborate with innovative teams, mindful of humanities, through computation and technology exploration.
+
+I am confident about my blend of technical and creative thinking.
+
+Flávio’s top skills
+Art
+    Developer (Freelance)
+    Composer (Self-employed)
+    Publishing Producer at Thelma Chan
+    Sound Track | Composer (Freelance)
+    Technical Drawing (Freelance)
+    Music Teacher (Freelance)
+    Studio Manager at Iran do Espírito Santo
+    Musical Arranger (Freelance)
+    Music Consultant at Editora Irmãos Vitale
+    Internship Trainee at BUREAU EXPORT DE LA MUSIQUE FRANCAISE
+    Guest Musician | Sound Design Assistant at Sonhos de Peixe / Fish Dreams - Feature Film (dir. Kirill Mikhanovsky)
+    Web Designer at upSight Internet Business
+    42 São Paulo
+    Faculdade Santa Marcelina
+    instituto cpfl
+    Universidade de São Paulo
+    Sesc
+    Festival de Inverno Campos do Jordão
+    Prof. Dr. Sílvio Ferraz
+    Tony Berchmans
+    Zero Kelvin
+    A Fantástica Fábrica de Groove
+    Guilhermoso Wild Chicken
+    SFX³
+
+Programming
+    Developer (Freelance)
+    Technical Services at Omnion Marketing de Relacionamento
+    Publishing Producer at Thelma Chan
+    Technical Drawing (Freelance)
+    Studio Manager at Iran do Espírito Santo
+    System Analyst at Intermezzo & Spina Musical Instruments
+    Sales Representative at Gluck Pianos
+    Audio Engineer at Canal BUSTV
+    Web Designer at upSight Internet Business
+    Cataloger at Livraria Atlas
+    42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+    Python 3 Complete - From beginning to advanced
+    SPTW 2019 - Artificial Intelligence & Data Science Fundamentals (in person)
+    Deep Learning Introduction with Python and Keras (in person)
+    Programming Mentoring
+    SFX³
+
+Artificial Intelligence (AI)
+    Developer (Freelance)
+    Composer (Self-employed)
+    42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+    SPTW 2019 - Artificial Intelligence & Data Science Fundamentals (in person)
+    Deep Learning Introduction with Python and Keras (in person)
+    Virtual Voice Assistant in Bixby - Bringing Intelligence to the Interface
+    Prompt Engineering Lab
+    Zero Kelvin
+    SFX³
+
+ Experience
+    Developer
+    Freelance Apr 2017 - Present
+        As a developer, I undertake a broad spectrum of projects, from low-level system programming, to I/O operations, to network architecture, web applications, data structures, algorithms, reliability, and performance of software.
+
+        For instance, I have developed a non-blocking web server with full CGI in C++98 using Unix system calls and implementing the HTTP 1.1 protocol, complying to networking terminology and interfaces. Another project, the ray-tracing, is rather a linear algebra computing research. In advanced projects, I have coded a full stack social network, with real time multiplayer game, and explored high level frameworks.
+
+        As study-cases, I have completely rewritten the functions and functionalities of the C standard library and the C++ containers. Also, I have experienced use of multithreading, microservices, Kubernetes, Docker, management and deployment of applications. As a developer, I undertake a broad spectrum of projects, from low-level system programming, to I/O operations, to network architecture, web applications, data structures, algorithms, reliability, and performance of software. For instance, I have developed a non-blocking web server with full CGI in C++98 using Unix system calls and implementing the HTTP 1.1 protocol, complying to networking terminology and interfaces. Another project, the ray-tracing, is rather a linear algebra computing research. In advanced projects, I have coded a full stack social network, with real time multiplayer game, and explored high level frameworks. As study-cases, I have completely rewritten the functions and functionalities of the C standard library and the C++ containers. Also, I have experienced use of multithreading, microservices, Kubernetes, Docker, management and deployment of applications.
+        Skills: Artes · Teamwork · Front-End Development · SOLID Design Principles · Information Technology · Full-Stack · Digital Production · Creative Concept · Programming · Back-End Web · Artificial Intelligence (AI) · Deep Learning · Data Science · Dev Ops · Linux System Administration · C (Programming Language) · Systems Analysis Interactive · Software · Art · Technical English · Algorithm · Open-Source · Computer · Creativity and Innovation · Machine · Mentoring
+        fde-capu
+        Studies, personal projects and collaborations.
+        GitHub. Studies, personal projects and collaborations.
+        mini ray tracer
+        Raytracing implementation by pixel basis using the protocol.
+        Scene, as seen from a specific angle and position, geometric objects, lighting system.
+        Linear Algebra - Color theory x-window Hardcode file formatting
+        Pure C 98 language. Raytracing implementation by pixel basis using the protocol. Scene, as seen from a specific angle and position, geometric objects, lighting system. Linear Algebra - Color theory x-window Hardcode file formatting
+    Composer
+    Self-employed Apr 2017 - Present
+        * 'Mars. War' – Symphonic Orchestra, Contemplation on Gilberto Mendes International Competition, 39th Música Nova Festival, Santos Symphony conducted by Maestro Luís Gustavo Petri.
+        * 'Padaria Afrovale Interviews' – Generative Electroacoustic, social cause.* 'Mars. War' Symphonic Orchestra, Contemplation on Gilberto Mendes International Competition, 39th Música Nova Festival, Santos Symphony conducted by Maestro Luís Gustavo Petri. cause.
+        Skills: Artes · Teamwork · Publishing · Digital Production · Creative Concept Design · Original Composition · Contemporary Music · Artificial Intelligence (AI) · C (Programming Language) · Art · Interactive Programming Soundtrack · Technical English · Creativity and Innovation · Mentoring
+        Projeto Afrovale
+        Padaria Artesanal Afrovale
+        Collective financing for the construction of Afrovale Artisanal Bakery in Peropava Quilombola Community (Registro/SP).
+        Gravastar
+        Indeterminate Music for Solo Piano
+    Technical Services
+    Omnion Marketing de Relacionamento · Freelance · Jul 2022 - Present
+        Finalization of web documents.
+        Skills: Artes · Teamwork · Front-End Development · Publishing · HTML · Digital Production · Programming · Design · Computer Science
+        Omnion - MKT de Relacionamento
+        Relationship Marketing
+    Publishing Producer
+    Thelma Chan · Freelance · Jan 2010 - Present
+        For many years, I have been working as Thelma Chan's trusted advisor, managing a comprehensive suite of creative services. This includes overseeing her cataloguing system, crafting and maintaining her website and webstore (which I designed and developed), and producing a diverse range of media. From digital static and interactive books to musical and graphic editions, digital renderings and captivating animations. Additionally, I spearhead contract negotiations, registrations and copyright protection.
+        Skills: Catalog Management · Artes · Teamwork · Front-End Development · Publishing · Digital Production · Creative Concept Design · Programming · Back-End Web · Systems Analysis Interactive · Software · Art · Soundtrack Computer Science · Creativity and Innovation · Contract · Music
+        .: Thelma Chan :..: :.
+        Website and webstore both developed by me.
+        https://www.thelmachan.com.br/lojinha <--is the web store Website and webstore both developed by me.
+        Thelma Chan - Dois Peixinhos
+        Digital Music Render; Animation
+        Thelma Chan
+        You Tube Channel (more animation videos)
+    Sound Track | Composer
+    Freelance Jan 2001 - Present
+        - Composed and produced incidental music soundtrack synchronization for the series "Insustentáveis", broadcast on TV Cultura currently available Amazon Prime Video Brasil.
+
+        - Digital soundtrack publicity; campaigns for Vogue Magazine, Malwee, QG, Folic, Caloi, and more.
+        - Composed produced incidental music synchronization the series "Insustentáveis", broadcast on TV Cultura currently available Amazon Prime Video Brasil.
+        Skills: Artes · Teamwork · Digital Production · Creative Concept Design · Original Composition · Contemporary Art Soundtrack · Creativity and Innovation · Music
+        Insustentaveis
+        13 episodes; Suitable for ages 18 and older; Comedy·Drama
+        Vogue Magazine
+        Carnival Campaign 2011
+        Wings to Inspire
+        Crowd Writing campaign run by Enfim
+    Technical Drawing
+    Freelance Jan 2017 - Present
+        CAD projects for metallurgy in fine-art; instruction manuals editing. (NDA)
+        Skills: Artes · Teamwork · Digital Production · Programming · Technical Drawing · Software Development · Art · CAD · English · Computer Science · Creativity and Innovation
+    Music Teacher
+    Freelance Jan 1997 - Present
+        Private teacher in Musical Theory, piano and guitar.
+        Skills: Artes · Teamwork · Creative Concept Design · Art · Creativity and Innovation · Mentoring · Music Production
+    Studio Manager
+    Iran do Espírito Santo · Full-time · Jan 2014 - Dec 2017 · 4 yrs to · São Paulo, Brasil · On-site
+        Art technician;
+        Technical Drawing;
+        Documentation;
+        Cataloguing;
+        International Representative;
+        Art Import/Export Agent; technician; Technical Drawing; Documentation; Cataloguing; International Representative;
+        Skills: Catalog Management · Artes · Teamwork · Front-End Development · Digital Production · Programming · Technical Drawing · Systems Analysis · Web · Contemporary Art · Software CAD · English · Computer Science · Creativity and Innovation · Contract
+        Iran do Espírito Santo
+    System Analyst
+    Intermezzo & Spina Musical Instruments · Full-time · Jan 2011 - Dec 2014 · 4 yrs to · São Paulo, Brasil · On-site
+        - system analyst
+        - web store operator
+        - seller of digital pianos- system analyst web store operator pianos
+        Skills: Catalog Management · Teamwork · SOLID Design Principles · Digital Production · Programming · Data Science · Systems Analysis · Web Development · Computer · Creativity and Innovation
+        Intermezzo & Spina Instrumentos Musicais
+    Musical Arranger
+    Freelance May 2014 - Oct
+        - Digital music rendering;
+        - Original music;- Digital music rendering; music;
+        Skills: Artes · Teamwork · Digital Production · Contemporary Art Soundtrack · Creativity and Innovation · Music
+        Submarino (Short 2014) ⭐ 7.5 | Short, Drama
+        Best Short Film - 2015 Palm Springs International Fest
+        Melhor Imagem - VII Janela Internacional de Cinema do Recife
+        Melhor Curta Nacional no Rio Festival de Gênero & Sexualidade Cinema
+        Melhor Filme na 'Mostra Diversidade' do 8º Curta Taquary - Festival Internacional de Metragem (PE). Best Short Film 2015 Palm Springs International Fest Imagem VII Janela Cinema Recife Nacional no Rio Gênero & Sexualidade
+        Submarino, curta metragem - direção de arte
+        Direção: Rafael Aidar
+        Direção de arte: Júlia Portella
+        produtora: Klaxon Direção: Rafael Aidar Direção de arte: Júlia Portella
+        Thelma Chan
+        Palminha de São Tomé (animation; digital music rendering)
+    Sales Representative
+    Gluck Pianos · Full-time · Jan 2013 - Dec · 1 yr to · São Paulo · On-site
+        - Commercial Representative for pianos: Steinway & Sons, Fazioli, Mason Hamlin, Samick and associated brands.
+        - brands.
+        Skills: Catalog Management · Teamwork · Front-End Development · Information Technology · Digital Production · Programming · Piano · Web · Interactive · Software · Computer Science
+        Gluck Pianos
+        Wide variety of new pianos, imported to order, both retail and wholesale.
+        Assistance in choosing the model. Wide variety of new pianos, imported to order, both retail and wholesale.
+    Music Consultant
+    Editora Irmãos Vitale · Full-time · Jan 2007 - Dec 2009 · 3 yrs to · São Paulo, Brasil · On-site
+        Editorial coordination, printed music, copyright.
+        Skills: Catalog Management · Artes · Teamwork · Publishing · Digital Production · Art · Mentoring · Contract
+        Irmãos Vitale - Editora de música, partituras, métodos e letras música
+    Audio Engineer
+    Canal BUSTV · Full-time · Jan 2007 - Dec · 1 yr to · São Paulo, Brasil · On-site
+        Audio architecturing; engineering; capture, design, editing and mixing;
+        Skills: Teamwork · Digital Production · Creative Concept Design · Programming · Soundtrack · Computer Science · Creativity and Innovation · Mentoring
+    Internship Trainee
+    BUREAU EXPORT DE LA MUSIQUE FRANCAISE · Contract · Oct 2006 - Nov
+        Cataloguing, clipping, assistance, office related roles.
+        Skills: Catalog Management · Artes · Teamwork · Art
+        La France au Brésil
+    Guest Musician | Sound Design Assistant
+    Sonhos de Peixe / Fish Dreams - Feature Film (dir. Kirill Mikhanovsky) · Apprenticeship · Jan 2004 Jun 2006 · 2 yrs
+        - Music track Instrumentist;
+        - Audio design assistance, Álamo Studios; Dolby technology.
+        - Music track Instrumentist; technology.
+        Skills: Artes · Teamwork · Creative Concept Design · Contemporary Art Soundtrack · Creativity and Innovation · Music Production
+        Fish Dreams (2006) | MUBI
+        In a village on the northeastern coast of Brazil, Jusce, 17, scrapes living by diving 30 meters, with rudimentary equipment, for lobster.
+        Álamo (empresa)
+    Web Designer
+    upSight Internet Business · Internship · Jan 2000 - Dec · 1 yr to · São Paulo, Brasil · On-site
+        BitBet was a betting platform where users would bet about current news events. I did everything graphic for them, banners, overall website layout, etc., and also developed production working chat system.
+        Skills: Artes · Teamwork · Front-End Development · Digital Production · Creative Concept Design · Programming · Interactive · Software · Art · Soundtrack · Technical English Computer Science · Creativity and Innovation
+        BitBet home page
+        Do not laugh! This is how the Internet looked like in early 2000s.
+        HTML/CSS/Java Script structure; illustrations. Do not laugh! This is how the Internet looked like in early 2000s.
+    Cataloger
+    Livraria Atlas · Internship · May 1994 - Jun
+        Visual Basic programming for database. Report builder. Temporary job, single month. My very first paycheck, at 13 years old. :)
+        Skills: Catalog Management · Teamwork · Information Technology · Visual Basic · Digital Production · Programming · Systems Analysis · Technical English · Cataloging · Computer Science
+
+Education
+    42 São Paulo
+    000013-2023, Computer Science Jan 2020 - Dec 2027
+        Grade: Common Core completed; "Human Coder"; 42 Advanced in course.
+        Activities and societies: Imperative programming in C; Object Oriented Programming C++; Data Structures Algorithms; Network Programming; Systems Administration; Graphic Concurrent Programming. Also, study of Agile principles.
+        Focused on technical excellence, collaboration, autonomy, adaptability, creativity; socio-emotional competences; structure; organization; proactivity; time management; effective communication; group project management.
+
+        Created in 2013 by Xavier Niel, a successful French serial entrepreneur, 42 has now become an international reference for students and companies. The school has trained thousands of professionals, to help eliminate the shortage of digital talents. Open to all talents, regardless of diplomas, origin, gender and age, 42 is also an innovative social lab engaged in building the society of tomorrow, a community that we hope will be more inclusive. At the crossroads between digital, jobs, and diversity, 42 shares its innovative educational vision (peer learning), to create a global innovation hub. Focused on technical excellence, collaboration, autonomy, adaptability, creativity; socio-emotional competences; structure; organization; proactivity; time management; effective communication; group project management.
+        Skills: Mentoring · Full-Stack Development · Information Technology · Creative Concept Design · SOLID Principles · Digital Production · Art · Teamwork · Machine Learning · Web · Algorithm · Front-End · Open-Source Computer Science · Linux System Administration · Creativity and Innovation · Software · Programming · Technical English · Back-End · Artificial Intelligence (AI) · Data · Interactive · Unix · Systems Analysis · C (Programming Language)
+        Certificate 42, 2023 Common Core Human Coder
+        Numbering: 000013-2023 (on the back)
+        One of the most innovative software engineering schools in world
+        Active Hands-on Learning: by doing. Challenging programming projects.
+        Teamwork and Collaboration: work in pairs or groups on projects. Development of teamwork, communication collective problem-solving skills.
+        Peer to peer Learning methodology. Students help each other, share knowledge and face challenges together, creating a strong learning community.
+        Continuous Learning and Progression: proficiency in different areas. Continuous learning and improving skills even after completion. Active Hands-on Learning: by doing. Challenging programming projects. Teamwork and Collaboration: work in pairs or groups on Development of teamwork, communication collective problem-solving skills. Peer to peer Learning methodology. Students help each other, share knowledge and face challenges together, creating a strong learning community.
+        42SP Common Core Projects Summary
+        I was participant on the very first generation of 42SP students.
+        This is a file with brief project descriptions and contents. I was participant on the very first generation of 42SP students.
+    FASM - Faculdade Santa Marcelina
+    Bachelor's degree, Music Composition 2001 - 2006
+        Emphasis on 20th century and contemporary music. Beloved teachers: Clóvis Afonso de André, Emiliano Lopes Patarra, Gilberto Assis Oliveira Rosa, Ignácio Campos, Marcos Mesquita, Margarida Fukuda, Maria Aparecida Bento, Gomes Machado (Aída), Maristela Loureiro Campana, Paulo Celso Moura, José Siqueira Tiné, Zuben, Roberto Anzai, Bomilcar, Dante Cavalheiro Filho, Sergio Molina, Sérgio Kafejian Cardoso Franco, Silva Gomes, Sílvio Ferraz, Vera Helena Massuh Cury.
+        Skills: Creative Concept Design · Original Composition · Art · Teamwork · Music Production · Deep Learning · Contemporary · Creativity and Innovation · Soundtrack
+        Bachelor degree FASM 2007
+        J Cage - Cybernetics between Chaos and Cosmos
+    instituto cpfl
+    4º festival de música contemporânea brasileira Mar 2017
+        edson zampronha e hermeto pascoal
+        Skills: Creative Concept Design · Original Composition · Art · Teamwork · Music Production · Contemporary · Creativity and Innovation
+        4º festival de música contemporânea brasileira » instituto cpfl
+        EDSON ZAMPRONHA
+        Hermeto Pascoal
+USP - Universidade de São Paulo Selected participant, Sound projects on Artistic Productions Jun 2009 - Selected participant for workshop "Projetos Sonoros em Produções Artísticas" ("Sound projects on ArtisticProductions"), ministred by Prof. Dr. Fernando Iazzetta, on Temporada de Projetos (Projects Season), Paço das Artes.
+        Fernando Iazzetta
+    Sesc
+    Scholarship, Composition Oct 2014 - Nov
+        Composition scholarship with Prof. Dr. Maestro Ronaldo Miranda at the 4th International Music Festival
+        SESC, at Pelotas, RS. Composition scholarship with Prof. Dr. Maestro Ronaldo Miranda the 4th International Music Festival
+        Skills: Creative Concept Design · Original Composition · Art · Teamwork · Music Production · Contemporary · Creativity and Innovation
+        Ronaldo Miranda
+        Festival de Música
+    Festival de Inverno Campos do Jordão
+    scholarship, Composition Oct 2006
+        Activities and societies: Composition scholarship with Prof. Maestro Edino Krieger at 37th Campos do Jordão Winter Festival.
+        Skills: Creative Concept Design · Original Composition · Art · Teamwork · Music Production · Contemporary · Creativity and Innovation
+        Edino Krieger
+        Festival de Campos do Jordão
+    Prof. Dr. Sílvio Ferraz
+    Private Course, Teoria e Composição Musical Jan 2009 - Dec
+        Skills: Creative Concept Design · Original Composition · Art · Teamwork · Music Production · Contemporary · Creativity and Innovation · Soundtrack
+    Tony Berchmans
+    Course/Masterclass, The Music on Films Jan 2015
+        Dur. 24h;
+        Skills: Creative Concept Design · Art · Teamwork · Music Production · Contemporary · Creativity and Innovation · Soundtrack
+        Certificade Music for Movies 2015
+        A Música do Filme (The Movie Music)
+        Attended the workshop regarding content from book. Tony Berchmans is a great expert on behind-the-scenes of musical composition for cinema and student subject, in 2006 he released book: “A MÚSICA DO FILME – Everything you would like to know about Cinema Music”.
+
+Licenses & certifications
+    Advancing with Deep Learning - Samsung Ocean Jun 2024
+    Agile Development: Dev Ops Git GIT- Samsung Ocean Jun 2024
+    Arduino Prototyping Lab - Basics - Samsung Ocean Jun 2024
+    Artificial Intelligence and Smart Chats: Introduction - Samsung Ocean Jun 2024
+    Data Science: Natural Language Processing and Opinion Mining in Python - Samsung Ocean Jun 2024
+    Deep Learning: Introduction with Keras and Python - Samsung Ocean Jun 2024
+    FRONTEND JOURNEY - Web Frontend with React JS: Introduction - Samsung Ocean Jun 2024
+    Frontend Journey - Web Front End with React JS: Integration Backend - Samsung Ocean Jun 2024
+    Game Creation with Unity - Samsung Ocean Jun 2024
+    Game Design: Theory and Practice - Samsung Ocean Jun 2024
+    How to develop technological projects?How projects?- Samsung Ocean Jun 2024
+    Internet of Things Lab - Samsung Ocean Jun 2024
+    Introduction to Agile Development - Samsung Ocean Jun 2024
+    Introduction to Game Development - Samsung Ocean Jun 2024
+    Introdution to Game Development - single part - Samsung Ocean Jun 2024
+    Io T Applications in Healthcare - Samsung Ocean Jun 2024
+    UX Topics for Artificial Intelligence - Omnichannel Experiences - Samsung Ocean Jun 2024
+    Usability Workshop - Samsung Ocean Jun 2024
+    Agile Development: Docker Dev Ops - Samsung Ocean May 2024
+    Android: Introduction - Samsung Ocean May 2024
+        Skills: Android Development · Studio
+    Design Thinking - Concepts and Practice - Samsung Ocean May 2024
+        Skills: Design · SOLID Principles · Agile Methodologies · Teamwork
+    IA for Digital Health - Introduction - Samsung Ocean May 2024
+    Introduction to Blockchain - Samsung Ocean May 2024
+        Skills: Blockchain · Cryptocurrency · Smart Contracts · Web 3Skills: 3
+    Introduction to Systems Modeling - Use Case - Samsung Ocean May 2024
+        Skills: Systems Modeling · Agile Methodologies
+    Introduction to Systems Modeling: Modeling Class Diagram - Samsung Ocean May 2024
+        Skills: Systems Modeling · Agile Methodologies
+    Introduction to Systems Modeling: Prototyping - Samsung Ocean May 2024
+    Prompt Engineering Lab - Samsung Ocean May 2024
+        Skills: Artificial Intelligence (AI) · Prompt Engineering · Large Language Models (LLM)
+    SQL Consulting with Python - Samsung Ocean May 2024
+    Virtual Voice Assistant in Bixby - Bringing Intelligence to the Interface - Samsung Ocean May 2024
+        Skills: Artificial Intelligence (AI) · Interactive Voice Response (IVR)
+    Deep Learning Introduction with Python and Keras (in person) - Samsung Ocean Feb 2020
+        Skills: Programming · Artificial Intelligence (AI) · Software Development · Creative Concept Design · Computer Science · Information Technology · Python · Keras · Machine Learning · Deep · Technical English
+    SPTW 2019 - Artificial Intelligence & Data Science Fundamentals (in person) - Samsung Ocean Nov 2019
+        Skills: Programming · Artificial Intelligence (AI) · Software Development · Creative Concept Design · Computer Science · Information Technology · Machine Learning · Deep · Data · Technical English
+    Python for Data Science and Machine Learning - Complete - Pierian Data International Sep 2019
+        Skills: Programming · Artificial Intelligence (AI) · Software Development · Creative Concept Design · Computer Science · Information Technology · Python · Machine Learning · Data · Technical English
+    Python for Data Science and Machine Learning - Udemy
+        Rodrigo Soares Tadewald | Founding partner of Asimov Finance and Academy
+    Python 3 Complete - From beginning to advanced - Pierian Data International Aug 2019
+        Skills: Programming · Software Development · Creative Concept Design · Algorithm · Computer Science · Python · Technical English
+        Complete Python 3 - from beginner to advanced - Udemy - Pierian Training
+        Data Science and Programming Training Company- Udemy Data Science and Programming Training Companyi
+    UX Topics for Service Design - Samsung Ocean
+
+Projects
+
+    SFX³
+    Nov 2022 - Present
+        Experimental Art Collective: hand made instruments with real time electronics. Fusion of music, painting, gastronomy, weaving and performance. I particularly use a digital piano real-time coding Super Collider graphic projections in Processing language.
+        Skills: Software Development · Soundtrack · Artificial Intelligence (AI) · Contemporary Art · Programming · SOLID Design Principles · Teamwork · Creative Concept Computer Science Interactive · Original Composition · Mentoring · Creativity and Innovation · Music Production
+        Collective improvisation that brings together many areas of the arts: installations, visual arts, weaving, gastronomy, music, theater and poetry. Collective improvisation that brings together many areas of the arts: installations, visual arts, weaving, gastronomy, music, theater and poetry.
+    Zero Kelvin
+    Jan 1996 - Dec 2008 Jan 1996 - Dec 2008
+        Experimental form free collective improvised music. Experimental form free collective improvised music.
+        Skills: Soundtrack · Artificial Intelligence (AI) · Contemporary Art · Teamwork · Creative Concept Design Web Development · Original Composition · Mentoring · Creativity and Innovation · Music Production
+    A Fantástica Fábrica de Groove
+    Jan 2002 - Dec 2005
+        funk, jazz, blues and grooves
+        Skills: Teamwork · Art · Creativity and Innovation · Music Production
+    Guilhermoso Wild Chicken
+    Jan 1997 - Dec 2000
+        50's Rock'n Roll
+        Skills: Teamwork · Art · Creativity and Innovation · Music Production
+        Vida de frango
+        Other contributors
+    Drawings
+        2312_180g, 42 x 29. 7 cm, Bristol, Canson, Pigment Liner.png
+        2310_180g, 42 x 29. 7 cm, Bristol, Canson, Pigment Liner.png
+        2310_180g, 29. 7 x 42 cm, Bristol, Canson, Pigment Liner.png
+
+Volunteering
+    Programming Mentoring
+    Mais 1Code Jan 2021 - Dec · 1 yr · Science and Technology
+        Free programming school, social impact, for low-income people.
+        +1code - MAIS1CODE
+        Quality tech education for low-income young people.
+
+Skills
+    Artes
+
+Computer Science
+42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+
+C (Programming Language)
+    42 São Paulo
+    Programming Mentoring
+
+Creativity and Innovation
+    Zero Kelvin
+
+SOLID Design Principles
+42 São Paulo
+
+Design Thinking - Concepts and Practice
+Teamwork
+
+    Design Thinking - Concepts and Practice
+Full-Stack Development
+
+    Developer (Freelance)
+42 São Paulo
+
+Programming Mentoring
+Creative Concept Design
+    Python for Data Science and Machine Learning - Complete
+
+Software Development
+42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+
+Agile Methodologies
+    Introduction to Systems Modeling: Modeling Class Diagram
+    Introduction to Systems Modeling - Use Case
+    Design Thinking - Concepts and Practice
+
+Smart Contracts
+    Introduction to Blockchain
+
+Design
+    42 São Paulo
+    Design Thinking - Concepts and Practice
+
+Systems Modeling
+    Introduction to Systems Modeling: Modeling Class Diagram
+
+Introduction to Systems Modeling - Use Case
+Blockchain
+
+    Introduction to Blockchain
+Android Development
+
+    Android: Introduction
+Android Studio
+
+    Android: Introduction
+Cryptocurrency
+
+    Introduction to Blockchain
+Web 3
+
+    Introduction to Blockchain
+Interactive Voice Response (IVR)
+
+    Virtual Voice Assistant in Bixby - Bringing Intelligence to the Interface
+    Prompt Engineering
+
+    Prompt Engineering Lab
+Large Language Models (LLM)
+
+    Prompt Engineering Lab
+Technical English
+
+42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+
+Linux System Administration
+    Developer (Freelance)
+    42 São Paulo
+    Programming Mentoring
+
+Programming
+    42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+
+Information Technology
+42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+
+Interactive Programming
+42 São Paulo
+
+SFX³
+Digital Production
+
+42 São Paulo
+Web Development
+
+42 São Paulo
+Zero Kelvin
+
+Publishing
+
+Catalog Management
+Contract Management
+
+Original Composition
+
+Zero Kelvin
+Art
+    Zero Kelvin
+Music Production
+
+Soundtrack
+
+    Zero Kelvin
+
+Mentoring
+42 São Paulo
+
+Programming Mentoring
+Front-End Development
+
+42 São Paulo
+Open-Source Development
+
+    Developer (Freelance)
+42 São Paulo
+
+Back-End Web Development
+42 São Paulo
+
+Technical Drawing
+Contemporary Art
+Zero Kelvin
+
+Algorithm Design
+    Developer (Freelance)
+    42 São Paulo
+    Python 3 Complete - From beginning to advanced
+
+Systems Analysis
+    42 São Paulo
+    Deep Learning
+
+    Developer (Freelance)
+    Faculdade Santa Marcelina
+    SPTW 2019 - Artificial Intelligence & Data Science Fundamentals (in person)
+
+Artificial Intelligence (AI)
+42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+
+Machine Learning
+    Developer (Freelance)
+    42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+
+Data Science
+42 São Paulo
+    Python for Data Science and Machine Learning - Complete
+
+Cataloging
+    Cataloger at Livraria Atlas
+
+Visual Basic
+    Cataloger at Livraria Atlas
+
+Keras
+    Deep Learning Introduction with Python and Keras (in person)
+    Python
+
+    Python for Data Science and Machine Learning - Complete
+    Python 3 Complete - From beginning to advanced
+    Deep Learning Introduction with Python and Keras (in person)
+
+HTML
+    Technical Services at Omnion Marketing de Relacionamento
+
+CAD
+Piano
+
+    Sales Representative at Gluck Pianos
+Unix
+
+    42 São Paulo
+C++
+Linux
+Dev Ops
+
+    Developer (Freelance)
+Contemporary Music
+
+    Composer (Self-employed)
+    Computer Music
+    Scoring
+
+Languages
+    Inglês
+    Native or bilingual proficiency
+    Português
+    Native or bilingual proficiency
