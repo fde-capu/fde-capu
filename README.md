@@ -54,9 +54,10 @@ Developer/Composer<br>
 <details><summary>
 ## Contact Information
 </summary>
-<code>* [flacarrara@gmail.com](mailto:flacarrara@gmail.com)
+```
+* [flacarrara@gmail.com](mailto:flacarrara@gmail.com)
 * [GitHub](https://www.github.com/fde-capu)
 * [LinkedIn](https://www.linkedin.com/in/flaviocarrara/)
-</code>
+```
 </details>
 </details>
