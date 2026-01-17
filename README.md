@@ -1,9 +1,8 @@
-# Flávio Carrara De Capua
 
 <details>
-  <summary>Click here to see more information</summary>
-  <p>This content was hidden, but now you can see it! You can put text, images, or even other HTML elements inside here.</p>
-</details>
+  <summary>
+# Flávio Carrara De Capua
+  </summary>
 
 Software Engineer and Composer
 
@@ -55,4 +54,6 @@ Software Engineer and Composer
 - (fluent English)
 * [flacarrara@gmail.com](mailto:flacarrara@gmail.com)
 * [GitHub](https://www.github.com/fde-capu)
+
+</details>
 * [LinkedIn](https://www.linkedin.com/in/flaviocarrara/)
