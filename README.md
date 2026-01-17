@@ -1,5 +1,10 @@
 # Flávio Carrara De Capua
 
+<details>
+  <summary>Click here to see more information</summary>
+  <p>This content was hidden, but now you can see it! You can put text, images, or even other HTML elements inside here.</p>
+</details>
+
 Software Engineer and Composer
 
 ## Computer Science
