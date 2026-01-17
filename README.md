@@ -1,6 +1,6 @@
-<details><summary>
+<details><summary><code>
 # Flávio Carrara De Capua
-</summary>
+</code></summary>
 Developer and Composer
 <details><summary>
 ## Computer Science
