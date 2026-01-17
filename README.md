@@ -1,6 +1,6 @@
-<details><summary><code>
+<details><summary>
 # Flávio Carrara De Capua
-</code></summary>
+</summary>
 Developer and Composer
 <details><summary>
 ## Computer Science
@@ -23,35 +23,45 @@ Developer and Composer
 * **Availability to learn** on demand.
 </details></details>
 
+<details><summary>
 ## Music
-
+</summary>
 * **Bachelor of Music Composition**, FASM, 2006.
 * **Mars.War**, Symphonic Orchestra, 2004. Contemplated by Gilberto Mendes 39th New Music Festival.
 * **Composed and produced music** for education, advertising, series, and films.
 * **Editing** of physical and digital interactive books. Plus **animation**.
 * **Participated in** scholarships; concert music festivals; and courses.
+</details>
 
+<details><summary>
 ## Professional Experiences
-
+</summary>
 * **Studio Director**, Iran do Espírito Santo (2014 - 2016). **CAD projects** for complex sculptures and installations.
 * **Consultant and Coordinator**, Editora Irmãos Vitale (2007 - 2009). Activities on printed music, and copyrighting.
+</details>
 
+<details><summary>
 ## Extras
+</summary>
 
 * Member of **Cubo^3 Experimental Art Collective**: hand made instruments with real time electronics.
 * **Other works**: Autonomous; Graphic Animation; 3D modeling; Sales; Site and Web Store Development; Technical Services.
 
+<details><summary>
 ## Interests
+</summary>
 
 * Arts & Generative Algorithms;
 * Deep Learning & its application in science and art;
 * Music & Audio Composition and interactivity;
+</details></details>
 
+<details><summary>
 ## Contact Information
-
-- (fluent English)
+</summary>
 * [flacarrara@gmail.com](mailto:flacarrara@gmail.com)
 * [GitHub](https://www.github.com/fde-capu)
-
 </details>
+
 * [LinkedIn](https://www.linkedin.com/in/flaviocarrara/)
+</details>
