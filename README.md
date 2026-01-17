@@ -1,13 +1,10 @@
-
-<details>
-  <summary>
+<details><summary>
 # Flávio Carrara De Capua
-  </summary>
-
-Software Engineer and Composer
-
+</summary>
+Developer and Composer
+<details><summary>
 ## Computer Science
-
+</summary>
 * **Human Coder**, **École 42**, **42SP**, São Paulo, 2023. 000013-2023.
 	* Peer-Evaluation experience in Unix, C, C++, K8s, and Web frameworks.
 	* Developed:
@@ -18,12 +15,13 @@ Software Engineer and Composer
 		* Re-wrote C++ STL library and libc.
 	* All projects fully functional, no use of external libraries, crash and leak free, score 97+.
 	* Common-core completed. Opened ongoing specializations.
-
+<details><summary>
 ### Technologies 
-
+</summary>
 * **Expertises**: C, C++, OOP, STL, JavaScript, Bash, Docker, Git, Unix, Linux, HTTP, JSON, HTML, CSS, Vim.
 * **Studies include**: Assembly, Python, Kubernetes, Microservices, Virtual Machines, Node, Angular, SQL, Javascript, TypeScript, Grafana, Minikube, CMake, Multi-Threading, Algorithms, Network and System Administration.
 * **Availability to learn** on demand.
+</details></details>
 
 ## Music
 
